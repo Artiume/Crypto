@@ -56,7 +56,7 @@ Proof-of-Work Mining requires you to use either your computer's processor (CPU),
 
 Setting up a miner is similar to any other computer, it needs a power supply, motherboard and frame. There are [solutions](https://www.newegg.com/p/2AM-041K-00001?Description=mining%20rig&cm_re=mining_rig-_-9SIAG4BEDP9010-_-Product&quicklink=true) that allow you to buy ready to use rigs that just need GPU's to be installed. For large scale operations, these might need the best way to go since they save a lot of time. Building a custom rig from stratch can take days.
 
-These standard rigs typically cost about $1000 dollars and can hold typically 8 GPU's. This comes out to a base fee of $125 for each GPU's housing. A custom rig would reduce this per GPU, but the manlabor might preclude making custom rigs.
+These standard rigs typically cost about $1000 dollars and can hold typically 8 GPU's. This comes out to a base fee of $125 for each GPU's housing. A custom rig would reduce this per GPU, but the man-labor might preclude making custom rigs.
 
 ![mining1](https://user-images.githubusercontent.com/20715731/132954854-d8f20abd-6d6f-4552-834a-f1fe44c179f0.jpeg)
 
