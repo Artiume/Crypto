@@ -232,6 +232,8 @@ A Comparison of the different Protocols and their power usage.
 
 [How to start a DAO](https://www.musicxtechxfuture.com/2021/06/22/blockchain-basics-how-to-start-a-dao/).
 
+[Are DAO's the future?](https://decrypt.co/80612/live-by-the-dao-dao-by-the-dao)
+
 ## Money Comparison
 
 The different traits of money
