@@ -36,9 +36,15 @@ Some services such as [MoonPay](https://www.moonpay.com/) will let you use VISA 
 
 ## How to Mine
 
-Each cryptocurrency secures its network with some form of consensus. With [Bitcoin](https://www.blockchain.com/explorer) and [Ethereum](https://etherscan.io/chart/blocktime), they use Proof-of-Work, this is the most known form of Mining. Hardware attempts to solve a puzzle that on average will take an average of X minutes. For Bitcoin, this is every 10 minutes. Ethereum is roughly every 13 seconds. Proof-of-Staking is the second most popular form of mining. It is similar to a savings account, in that, you hold crypto in your wallet and you get APY dividends. Some pay out daily, some weekly. The interest rate is typically between 4% and 6%.
+Each cryptocurrency secures its network with some form of consensus. With [Bitcoin](https://www.blockchain.com/explorer) and [Ethereum](https://etherscan.io/chart/blocktime), they use Proof-of-Work, this is the most known form of Mining. Hardware attempts to solve a puzzle that on average will take an average of X minutes. For Bitcoin, this is every 10 minutes. Ethereum is roughly every 13 seconds. 
+
+### Proof-of-Staking
+
+Proof-of-Staking is the second most popular form of mining. It is similar to a savings account, in that, you hold crypto in your wallet and you get APY dividends. While it technically requires hardware to perform staking, many exchanges such as CoinBase offering Staking services so there's no setup on your end. Some cryptos pay out daily, some weekly. The interest rate is typically between 4% and 6%. If staking via an exchange, they typically a [small fee](https://coinsutra.com/best-ethereum-staking-platforms/) of the staking reward.
 
 [Proof-of-Work (PoW) vs Proof-of-Stake (PoS)](https://www.kraken.com/en-us/learn/proof-of-work-vs-proof-of-stake). 
+
+[Couple sue IRS over Proof of Staking Current Tax Laws](https://decrypt.co/71943/tezos-users-sue-irs-over-crypto-tax-staking-rules)
 
 [Top 5 Staking Coins](https://medium.com/coinmonks/top-staking-coins-with-most-potential-in-2021-1391219cf8b).
 
@@ -158,8 +164,6 @@ The different traits of money
 ### News
 
 [Texas is pushing laws to protect cryptocurrencies in their Constitution](https://cointelegraph.com/news/more-than-a-law-texas-takes-steps-to-amend-bitcoin-into-state-constitution)
-
-[People sue IRS over Proof of Staking Current Tax Laws](https://decrypt.co/71943/tezos-users-sue-irs-over-crypto-tax-staking-rules)
 
 [New Mining Facility in Texas](https://www.reddit.com/r/ethtrader/comments/of5ngf/new_mining_center_in_texas_united_states/).
 
