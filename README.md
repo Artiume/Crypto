@@ -94,8 +94,8 @@ Each cryptocurrency secures its network with some form of consensus. With [Bitco
 
 Contracts
 
-[DAO's](https://ethereum.org/en/dao/)
+[DAO's](https://ethereum.org/en/dao/).
 
-[Exploring DAO's](https://app.daohaus.club/explore)
+[Exploring DAO's](https://app.daohaus.club/explore).
 
-
+[How to start a DAO](https://www.musicxtechxfuture.com/2021/06/22/blockchain-basics-how-to-start-a-dao/).
