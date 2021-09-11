@@ -145,6 +145,10 @@ Pallets!
 
 ![custom rigs](https://user-images.githubusercontent.com/20715731/132961246-f68b0b44-1140-4d1c-adbc-8f3c576a1020.jpg)
 
+Rail Rig
+
+![mining rig 5](https://user-images.githubusercontent.com/20715731/132961707-23553f58-9b90-4605-9b79-307d21d72c5b.png)
+
 ## Pools
 
 In order to Mine, you either have to Mine by yourself or in a Pool. It is near impossible to Mine solo these days and everybody participate in Pools.
