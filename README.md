@@ -2,7 +2,15 @@
 
 ## How to start
 
-The first step is to create a wallet. This is similar to creating a bank account. In order to convert to crypto or to cash, an Exchange is required. Some services such as [MoonPay](https://www.moonpay.com/) will let you use VISA to buy crypto using your debit card. Some Exchanges such as [CoinBase](https://coinbase.com/) will give you your public and private keys in order to control your wallets. Other exchanges such as [eToro](https://www.etoro.com/en-us/) allow you open a spread against a cryptocurrency similar to a stock. 
+The first step is to create a wallet. This is similar to creating a bank account. There are two types of wallets; hot wallets and cold wallets. A hot wallet is the term for a digital wallet or one that is on your phone or computer. 
+
+### Cold Wallets
+
+A [cold wallet](https://www.bitdegree.org/crypto/cold-wallet) uses a physical key similar to a USB drive to secure your wallet. A cold wallet cannot be opened without the hardware key so it's impenetrable but can also be lost or stolen. They cost roughly $100 online. 
+
+### Exchanges
+
+In order to convert to crypto or to cash, an Exchange is required. Some services such as [MoonPay](https://www.moonpay.com/) will let you use VISA to buy crypto using your debit card. Some Exchanges such as [CoinBase](https://coinbase.com/) will give you your public and private keys in order to control your wallets. Other exchanges such as [eToro](https://www.etoro.com/en-us/) allow you open a spread against a cryptocurrency similar to a stock. Exchanges such as eToro are frowned upon because you are unable to control the crypto wallet, you have to trust eToro to ensure your money is safe. Coinbase provides a flat fee of $3 per $100. [eToro's Fees](https://www.etoro.com/trading/fees/) is based on a small % of the spread so it can fluctaute between a small % to a high %.
 
 ## How to Mine and its different aspects
 
@@ -47,8 +55,6 @@ There is also the comparison of the different Mining Software. I currently use [
 ![Protocol Comparison](https://user-images.githubusercontent.com/20715731/132950289-77a690d0-6d65-44c5-ad61-8281cc39bd7b.jpg)
 
 A Comparison of the different Protocols and their power usage.
-
-![Hashrate GPU Comparison](https://user-images.githubusercontent.com/20715731/132950292-c81f30c2-9d2f-469f-acac-11832c4db027.jpg)
 
 ![Protocol vs Power Usage](https://user-images.githubusercontent.com/20715731/132950294-a80bef79-9391-4406-b0a7-93ea6d0d7708.jpg)
 
