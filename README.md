@@ -76,6 +76,8 @@ GPU's are rated on Hashrate, Power Usage and Unit Cost. Hashrate is based on how
 
 The chart shows the Hashrate in MH/s, the Power Consumption in Watts and the efficiency (Hashrate per Watt). 100 MH/s brings in roughly ~.07 Eth. This is roughly ~$250 a month gross at the current exchange rate. 1 KW is 723KW/h per month, at $.1 per KWh, that's roughly $72.30/month per KW. 30 KW is roughly $2200 in electricity. $1500 in rent comes to roughly $3700 in bills.
 
+##### GPU Table
+
 |Name: |NVIDIA RTX 3070|AMD RX 5700 XT|AMD RX 580|
 |:---:|:---:|:---:|:---:|
 |Protocol: |Ethash|Ethash|Ethash|
