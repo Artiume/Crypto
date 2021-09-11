@@ -107,7 +107,11 @@ NVIDIA GPU HASHRATES
 
 While I have chosen to focus on Mining Ethereum, it can be more or less efficient to mine other types of coins. Here's a chart showing the different coins and their profitability. I haven't gotten into this type of testing yet. One thing that this chart doesn't include is the Power Usage.
 
-[Profit Switching](https://support.awesomeminer.com/support/solutions/articles/35000085714-profit-switching-introduction), another form of mining. 
+Here's some older GPU models that might be worth buying if their price is low enough.
+
+![old GPU models](https://user-images.githubusercontent.com/20715731/132961672-3dea427a-552e-44a3-8fc0-912592d40b7d.png)
+
+[Profit Switching](https://support.awesomeminer.com/support/solutions/articles/35000085714-profit-switching-introduction) is another form of mining. 
 
 #### ASICs
 
