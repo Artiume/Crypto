@@ -185,11 +185,11 @@ The different traits of money
 
 [How to start a DAO](https://www.musicxtechxfuture.com/2021/06/22/blockchain-basics-how-to-start-a-dao/).
 
-[IotaWatt](https://stuff.iotawatt.com/?v=7516fd43adaa)
-
 ## Misc
 
 Fold is a neat app that lets you buy gift cards to shops like Amazon, BassPro and even airlines, and earn you satoshi's (the Bitcoin penny) as rewards. [Fold Referral](https://use.foldapp.com/sign-up?referral=XUHEKCWM)
+
+[IotaWatt](https://stuff.iotawatt.com/?v=7516fd43adaa)
 
 There are some services called Mining Rig Rentals (MRR's), you can rent equipment that's probably placed in a data center somewhere. I'm not really interested in any of these services.
 
