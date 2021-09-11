@@ -37,8 +37,11 @@ Proof-of-Work Mining requires you to use either your computer's processor (CPU),
 Setting up a miner is similar to any other computer, it needs a power supply, motherboard and frame. There are [solutions]
 (http://alto-crypto.com/product/custom-7-gpu-daughterboard-custom-psu-combo/) that allow you to buy ready to use rigs that just need GPU's to be installed. For large scale operations, these might need the best way to go since they save a lot of time. Building a rig from stratch can take days. 
 
-![large scale](https://user-images.githubusercontent.com/20715731/132954812-1e67d23c-db87-4ae8-8a27-922a085d15fa.jpeg)
+![mining1](https://user-images.githubusercontent.com/20715731/132954854-d8f20abd-6d6f-4552-834a-f1fe44c179f0.jpeg)
 
+![mining3](https://user-images.githubusercontent.com/20715731/132954851-b9de1b93-a3fd-464a-aebe-e4b71b8de7d4.jpeg)
+
+![large scale](https://user-images.githubusercontent.com/20715731/132954812-1e67d23c-db87-4ae8-8a27-922a085d15fa.jpeg)
 
 [RTX 3070 Settings](https://miningchamber.com/gpu-mining/rtx-3070-mining-settings/)
 
