@@ -60,6 +60,8 @@ Setting up a miner is similar to any other computer, it needs a power supply, mo
 
 ![mining3](https://user-images.githubusercontent.com/20715731/132954851-b9de1b93-a3fd-464a-aebe-e4b71b8de7d4.jpeg)
 
+![rigs in a closet](https://user-images.githubusercontent.com/20715731/132961520-08ba9467-b97c-4c54-9c2f-39dd58ef7dfa.png)
+
 ![large scale](https://user-images.githubusercontent.com/20715731/132954812-1e67d23c-db87-4ae8-8a27-922a085d15fa.jpeg)
 
 #### Graphic Cards (GPU's)
