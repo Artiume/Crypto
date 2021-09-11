@@ -70,16 +70,16 @@ Setting up a miner is similar to any other computer, it needs a power supply, mo
 
 The chart shows the Hashrate in MH/s, the Power Consumption in Watts and the efficiency (Hashrate per Watt).
 
-|NVIDIA RTX 3070|AMD RX 5700|
+|NVIDIA RTX 3070|AMD RX 5700 XT|
 |:---:|:---:|
 |Ethash|Ethash|
 |61.786 MH/s|54.282 MH/s|
 |117 W|91 W|
 |0.528 MH/W|0.597 MH/W|
 
-[Ebay link for rtx 3070](https://www.ebay.com/sch/i.html?_from=R40&_nkw=rtx+3070+non-lhr&_sacat=0&rt=nc&Chipset%252FGPU%2520Model=NVIDIA%2520GeForce%2520RTX%25203070&_dcat=27386)
+[Ebay link for NVIDIA RTX 3070](https://www.ebay.com/sch/i.html?_from=R40&_nkw=rtx+3070+non-lhr&_sacat=0&rt=nc&Chipset%252FGPU%2520Model=NVIDIA%2520GeForce%2520RTX%25203070&_dcat=27386)
 
-[Ebay link for RX 5700 Ti](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=rx+5700+xt&_sacat=0)
+[Ebay link for AMD RX 5700 XT](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=rx+5700+xt&_sacat=0)
 
 [Amazon link for general search of NVIDIA gtx and rtx cards](https://www.amazon.com/s?k=gtx%2Frtx&rh=n%3A284822&language=en_US)
 
