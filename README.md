@@ -85,9 +85,17 @@ The chart shows the Hashrate in MH/s, the Power Consumption in Watts and the eff
 
 [GPU Profibility Ranking](https://www.whattomine.com/gpus), this ranking is nice because it compares each graphics card by daily profit. It doesn't take into account price or efficiency. 
 
-[List of GPU prices](https://www.tomshardware.com/news/gpu-pricing-index).
+[List of GPU prices](https://www.tomshardware.com/news/gpu-pricing-index)
 
 [RTX 3070 Settings](https://miningchamber.com/gpu-mining/rtx-3070-mining-settings/)
+
+[Non-LHR vs LHR](https://coincryptonews.com/2021/08/02/lhr-vs-non-lhr-for-gpu-mining-ethrvnergocfxfiro-etc-compared-nvidia-lite-hashrate-limiter-test/)
+
+[Bypassing LHR](https://www.techspot.com/news/90803-nvidia-rtx-3000-lhr-cards-limiter-partially-bypassed.html)
+
+While I have chosen to focus on Mining Ethereum, it can be more or less efficient to mine other types of coins. Here's a chart showing the different coins and their profitability. I haven't gotten into this type of testing yet. One thing that this chart doesn't include is the Power Usage.
+
+[Profit Switching](https://support.awesomeminer.com/support/solutions/articles/35000085714-profit-switching-introduction), another form of mining. 
 
 #### ASICs
 
@@ -105,7 +113,7 @@ Because of their high cost and possible chance of scams, I'm hesitant to delve i
 
 In order to Mine, you either have to Mine by yourself or in a Pool. It is near impossible to Mine solo these days and everybody participate in Pools.
 
-Here's a graph of the different Pools for Bitcoin
+Here's a graph of the different Pools for [Bitcoin](https://bitnodes.io/).
 
 ![pools](https://user-images.githubusercontent.com/20715731/132950286-1a4aa8a1-cdf9-496d-bbf8-dbec703a8031.png)
 
@@ -121,21 +129,7 @@ I have used [nanopool](https://www.nanopool.org/) in the past.
 
 [Alternative Website](https://www.poolwatch.io/coin/ethereum)
 
-Bitcoin Node Monitor - https://bitnodes.io/
-
 The Comparison of Pool Fees - https://help.poolin.com/hc/en-us/articles/360002728472-What-are-PPS-PPLNS-PPS-FPPS-SOLO-
-
-[Profit Switching](https://support.awesomeminer.com/support/solutions/articles/35000085714-profit-switching-introduction), another form of mining. 
-
-## Hardware
-
-Non-LHR vs LHR
-
-[Bypassing LHR](https://www.techspot.com/news/90803-nvidia-rtx-3000-lhr-cards-limiter-partially-bypassed.html)
-
-GPU Comparison
-
-While I have chosen to focus on Mining Ethereum, it can be more or less efficient to mine other types of coins. Here's a chart showing the different coins and their profitability. I haven't gotten into this type of testing yet. One thing that this chart doesn't include is the Power Usage.
 
 ## Software
 
