@@ -85,7 +85,7 @@ The chart shows the Hashrate in MH/s, the Power Consumption in Watts and the eff
 
 [Amazon links for general search of AMD cards](https://www.amazon.com/s?k=radeon&rh=n%3A284822&language=en_US)
 
-[Non-LHR vs LHR](https://coincryptonews.com/2021/08/02/lhr-vs-non-lhr-for-gpu-mining-ethrvnergocfxfiro-etc-compared-nvidia-lite-hashrate-limiter-test/). LHR stands for Lite Hash Rate. They are designed to discourage miners from purchasing them. Ensure you purchase Non-LHR graphics cards due to their lower Hashrate. However, they are still sometimes up to 60% to 80% efficient as the original model.
+[Non-LHR vs LHR](https://coincryptonews.com/2021/08/02/lhr-vs-non-lhr-for-gpu-mining-ethrvnergocfxfiro-etc-compared-nvidia-lite-hashrate-limiter-test/). LHR stands for Lite Hash Rate. They are only produced by NVIDIA so AMD doesn't have this issue. They are designed to discourage miners from purchasing them. Ensure you purchase Non-LHR graphics cards due to their lower Hashrate. However, they are still sometimes up to 60% to 80% efficient as the original model.
 
 [Bypassing LHR](https://www.techspot.com/news/90803-nvidia-rtx-3000-lhr-cards-limiter-partially-bypassed.html)
 
