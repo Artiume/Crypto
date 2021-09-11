@@ -1,3 +1,4 @@
+![Hashrate GPU Comparison](https://user-images.githubusercontent.com/20715731/132950279-fa06211c-ab7d-45ba-bb84-b8ec672566cf.jpg)
 # Crypto
 
 How to Mine and its different aspects
@@ -9,12 +10,11 @@ In order to Mine, you either have to Mine by yourself or in a Pool. It is near i
 
 Here's a graph of the different Pools for Bitcoin
 
-
-https://99bitcoins.com/wp-content/uploads/2016/07/pools.png
+![pools](https://user-images.githubusercontent.com/20715731/132950286-1a4aa8a1-cdf9-496d-bbf8-dbec703a8031.png)
 
  Ethereum
 
-
+![pools eth](https://user-images.githubusercontent.com/20715731/132950284-6fe06af1-9f1f-4e6c-9f25-a9bd3645eb7b.jpg)
 
 I currently use ethermine.org as my pool
 
@@ -43,23 +43,16 @@ https://www.miningrigrentals.com/
 
 https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvertcoin.fun%2Fwp-content%2Fuploads%2FVertcoin-GPU-Hashrate-Graphics-Card-Comparison-Chart-for-Verthash.jpg&f=1&nofb=1
 
-
-
 While I have chosen to focus on Mining Ethereum, it can be more or less efficient to mine other types of coins. Here's a chart showing the different coins and their profitability. I haven't gotten into this type of testing yet. One thing that this chart doesn't include is the Power Usage.
 
-https://tgraph.io/file/16e24243f73c6a72fa474.jpg
-
-
+![Protocol Comparison](https://user-images.githubusercontent.com/20715731/132950289-77a690d0-6d65-44c5-ad61-8281cc39bd7b.jpg)
 
 A Comparison of the different Protocols and their power usage.
 
+![Hashrate GPU Comparison](https://user-images.githubusercontent.com/20715731/132950292-c81f30c2-9d2f-469f-acac-11832c4db027.jpg)
 
-http://cryptomining-blog.com/wp-content/uploads/2016/06/gtx-1080-power-usage.jpg
+![Protocol vs Power Usage](https://user-images.githubusercontent.com/20715731/132950294-a80bef79-9391-4406-b0a7-93ea6d0d7708.jpg)
 
+Money Comparison
 
-
-
-
-
-                                           
-.https://cdn.helenabitcoinmining.com/wp-content/uploads/2021/05/06174244/fb_image-80.png
+![Traits of Money](https://user-images.githubusercontent.com/20715731/132950295-07377a5a-c9fc-4835-a3b9-650c1f2bc820.png)
