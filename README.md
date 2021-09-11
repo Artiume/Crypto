@@ -4,9 +4,13 @@
 
 The first step is to create a wallet. This is similar to creating a bank account. There are two types of wallets; hot wallets and cold wallets. A hot wallet is the term for a digital wallet or one that is on your phone or computer. Using a software wallet such as [MyEtherWallet (MEW)](https://www.myetherwallet.com/) or [Metamask](https://metamask.io/), here's a [comparison](https://cryptogeek.info/en/compare-wallets/metamask-vs-myetherwallet) of the two.
 
+### Creating a hot wallet
+
+First install 
+
 ### Cold Wallets
 
-A [cold wallet](https://www.bitdegree.org/crypto/cold-wallet) uses a physical key similar to a USB drive to secure your wallet. A cold wallet cannot be opened without the hardware key so it's impenetrable but can also be lost or stolen. They cost roughly $100 online. 
+A [cold wallet](https://www.bitdegree.org/crypto/cold-wallet) uses a physical key similar to a USB drive to secure your wallet. A cold wallet cannot be opened without the hardware key so it's impenetrable but can also be lost or stolen. They cost roughly $100 online, but are the most secure way to protect your crypto, you could literally bury your money.
 
 ### Exchanges
 
@@ -44,6 +48,10 @@ There are some services called Mining Rig Rentals (MRR's), you can rent equipmen
 
 https://www.miningrigrentals.com/
 
+Non-LHR vs LHR
+
+[Bypassing LHR](https://www.techspot.com/news/90803-nvidia-rtx-3000-lhr-cards-limiter-partially-bypassed.html)
+
 GPU Comparison
 
 ![Hashrate GPU Comparison](https://user-images.githubusercontent.com/20715731/132950279-fa06211c-ab7d-45ba-bb84-b8ec672566cf.jpg)
@@ -58,13 +66,19 @@ A Comparison of the different Protocols and their power usage.
 
 ![Protocol vs Power Usage](https://user-images.githubusercontent.com/20715731/132950294-a80bef79-9391-4406-b0a7-93ea6d0d7708.jpg)
 
-Money Comparison
+## Money Comparison
+
+The different traits of money
 
 ![Traits of Money](https://user-images.githubusercontent.com/20715731/132950295-07377a5a-c9fc-4835-a3b9-650c1f2bc820.png)
 
-[55 out of top 100 Banks are now investing in Cryptos](https://cointelegraph.com/news/55-of-world-s-top-100-banks-reportedly-have-crypto-and-blockchain-exposure)
+### News
 
-Crypto Currency Comparisons
+[55 out of top 100 Banks are now investing in Cryptos](https://cointelegraph.com/news/55-of-world-s-top-100-banks-reportedly-have-crypto-and-blockchain-exposure).
+
+[wal-mart will soon be accepting crypto](https://www.gamerevolution.com/news/690076-walmart-crypto-accepting-bitcoin-dogecoin-shiba-inu-tokens-more).
+
+## Crypto Currency Comparisons
 
 Each cryptocurrency secures its network with some form of consensus. With [Bitcoin](https://www.blockchain.com/explorer) and [Ethereum](https://etherscan.io/chart/blocktime), they use Proof-of-Work, this is the most known form of Mining. Hardware attempts to solve a puzzle that on average will take an average of X minutes. For Bitcoin, this is every 10 minutes. Ethereum is roughly every 13 seconds. 
 
@@ -74,6 +88,8 @@ Each cryptocurrency secures its network with some form of consensus. With [Bitco
 
 Contracts
 
-[DAO](https://ethereum.org/en/dao/)
+[DAO's](https://ethereum.org/en/dao/)
 
 [Exploring DAO's](https://app.daohaus.club/explore)
+
+
