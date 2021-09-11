@@ -14,13 +14,22 @@ A [cold wallet](https://www.bitdegree.org/crypto/cold-wallet) uses a physical ke
 
 ### Exchanges
 
-In order to convert to crypto or to cash, an Exchange is required. Some services such as [MoonPay](https://www.moonpay.com/) will let you use VISA to buy crypto using your debit card. Some Exchanges such as [CoinBase](https://coinbase.com/) will give you your public and private keys in order to control your wallets. Other exchanges such as [eToro](https://www.etoro.com/en-us/) allow you open a spread against a cryptocurrency similar to a stock. Exchanges such as eToro are frowned upon because you are unable to control the crypto wallet, you have to trust eToro to ensure your money is safe. Coinbase provides a flat fee of $3 per $100. [eToro's Fees](https://www.etoro.com/trading/fees/) is based on a small % of the spread so it can fluctaute between a small fee to a high fee.
+In order to convert to crypto or to cash, an Exchange is required. They are finance institutions similar to banks and have Know Your Customer rules such as ID and SSN. Some Exchanges such as [CoinBase](https://coinbase.com/) will give you your public and private keys in order to control your wallets. Other exchanges such as [eToro](https://www.etoro.com/en-us/) allow you open a spread against a cryptocurrency similar to a stock. Exchanges such as eToro are frowned upon because you are unable to control the crypto wallet, you have to trust eToro to ensure your money is safe. Coinbase provides a flat fee of $3 per $100. [eToro's Fees](https://www.etoro.com/trading/fees/) is based on a small % of the spread so it can fluctaute between a small fee to a high fee.
+
+Some services such as [MoonPay](https://www.moonpay.com/) will let you use VISA to buy crypto using your debit card. These can be used in conjunction with metamask or MEW to buy more crypto without needing an exchange. MoonPay has Know Your Customer rules as well. 
 
 ## How to Mine
 
 ### Hardware
 
 [RTX 3070 Settings](https://miningchamber.com/gpu-mining/rtx-3070-mining-settings/)
+
+
+#### ASICs
+
+ASICs are highly specialized, but very expensive equipment.
+
+[Bitmain Antminer E9](https://bitmainasic.com/product/antminer-e9/) 3GH/s, $13,400.
 
 Pools
 
@@ -79,6 +88,8 @@ The different traits of money
 ### News
 
 [Texas is pushing laws to protect cryptocurrencies in their Constitution](https://cointelegraph.com/news/more-than-a-law-texas-takes-steps-to-amend-bitcoin-into-state-constitution)
+
+[New Mining Facility in Texas](https://www.reddit.com/r/ethtrader/comments/of5ngf/new_mining_center_in_texas_united_states/).
 
 [55 out of top 100 Banks are now investing in Cryptos](https://cointelegraph.com/news/55-of-world-s-top-100-banks-reportedly-have-crypto-and-blockchain-exposure).
 
