@@ -93,6 +93,7 @@ The chart shows the Hashrate in MH/s, the Power Consumption in Watts and the eff
 |Rigs per 30KW: |18.75|24.30|25|
 |Gross Income per 30KW: |$22,500|$26,244|$16,000|
 |Adjusted Income per 30KW: |$18,800|$22,500|$12,300|
+|Adjusted ROI: |12.17 Months|12.75 Months|10.16 Months|
 |Total Cost per 30KW: |$228,750|$286,740|$125,000|
 
 [Ebay link for NVIDIA RTX 3070](https://www.ebay.com/sch/i.html?_from=R40&_nkw=rtx+3070+non-lhr&_sacat=0&rt=nc&Chipset%252FGPU%2520Model=NVIDIA%2520GeForce%2520RTX%25203070&_dcat=27386)
