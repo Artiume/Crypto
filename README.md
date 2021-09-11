@@ -78,6 +78,8 @@ The different traits of money
 
 ### News
 
+[Texas is pushing laws to protect cryptocurrencies in their Constitution](https://cointelegraph.com/news/more-than-a-law-texas-takes-steps-to-amend-bitcoin-into-state-constitution)
+
 [55 out of top 100 Banks are now investing in Cryptos](https://cointelegraph.com/news/55-of-world-s-top-100-banks-reportedly-have-crypto-and-blockchain-exposure).
 
 [Second largest mortgage lender United Wholesale Mortgage will start accepting crypto](https://cointelegraph.com/news/second-largest-us-mortgage-lender-will-accept-crypto-payments-this-year).
