@@ -38,7 +38,7 @@ Each cryptocurrency secures its network with some form of consensus. With [Bitco
 
 Proof-of-Work Mining requires you to use either your computer's processor (CPU), graphics card (GPU), or an [ASIC](https://www.sigenics.com/blog/what-is-an-asic). We will be focusing on GPU mining since it is the most flexible in terms of price, setup and knowledge.
 
-Setting up a miner is similar to any other computer, it needs a power supply, motherboard and frame. There are [solutions](http://alto-crypto.com/product/custom-7-gpu-daughterboard-custom-psu-combo/) that allow you to buy ready to use rigs that just need GPU's to be installed. For large scale operations, these might need the best way to go since they save a lot of time. Building a rig from stratch can take days. 
+Setting up a miner is similar to any other computer, it needs a power supply, motherboard and frame. There are [solutions](https://www.newegg.com/p/2AM-041K-00001?Description=mining%20rig&cm_re=mining_rig-_-9SIAG4BEDP9010-_-Product&quicklink=true) that allow you to buy ready to use rigs that just need GPU's to be installed. For large scale operations, these might need the best way to go since they save a lot of time. Building a rig from stratch can take days. 
 
 ![mining1](https://user-images.githubusercontent.com/20715731/132954854-d8f20abd-6d6f-4552-834a-f1fe44c179f0.jpeg)
 
@@ -137,6 +137,10 @@ Contracts
 [Exploring DAO's](https://app.daohaus.club/explore).
 
 [How to start a DAO](https://www.musicxtechxfuture.com/2021/06/22/blockchain-basics-how-to-start-a-dao/).
+
+## Misc
+
+[IotaWatt}(https://stuff.iotawatt.com/?v=7516fd43adaa)
 
 ### History of Reserve Currencies
 
