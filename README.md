@@ -1,6 +1,6 @@
 # Crypto
 
-How to Mine and its different aspects
+## How to Mine and its different aspects
 
 Pools
 
@@ -52,6 +52,8 @@ Money Comparison
 
 ![Traits of Money](https://user-images.githubusercontent.com/20715731/132950295-07377a5a-c9fc-4835-a3b9-650c1f2bc820.png)
 
+[55 out of top 100 Banks are now investing in Cryptos](https://cointelegraph.com/news/55-of-world-s-top-100-banks-reportedly-have-crypto-and-blockchain-exposure)
+
 Crypto Currency Comparisons
 
 Each cryptocurrency secures its network with some form of consensus. With [Bitcoin](https://www.blockchain.com/explorer) and [Ethereum](https://etherscan.io/chart/blocktime), they use Proof-of-Work, this is the most known form of Mining. Hardware attempts to solve a puzzle that on average will take an average of X minutes. For Bitcoin, this is every 10 minutes. Ethereum is roughly every 13 seconds. 
@@ -59,3 +61,9 @@ Each cryptocurrency secures its network with some form of consensus. With [Bitco
 [PoW vs PoS vs PoST](https://www.cloakcoin.com/learn/pow_pos). 
 
 [Cross-Chain Aggregation](https://cointelegraph.com/news/how-cross-chain-liquidity-aggregation-can-shape-the-future-of-defi)
+
+Contracts
+
+[DAO](https://ethereum.org/en/dao/)
+
+[Exploring DAO's](https://app.daohaus.club/explore)
