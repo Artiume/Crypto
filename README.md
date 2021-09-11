@@ -1,5 +1,9 @@
 # Crypto
 
+## How to start
+
+The first step is to create a wallet. This is similar to creating a bank account. In order to convert to crypto or to cash, an Exchange is required. Some services such as [MoonPay](https://www.moonpay.com/) will let you use VISA to buy crypto using your debit card. Some Exchanges such as [CoinBase](https://coinbase.com/) will give you your public and private keys in order to control your wallets. Other exchanges such as [eToro](https://www.etoro.com/en-us/) allow you open a spread against a cryptocurrency similar to a stock. 
+
 ## How to Mine and its different aspects
 
 Pools
