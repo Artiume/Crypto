@@ -70,12 +70,20 @@ Setting up a miner is similar to any other computer, it needs a power supply, mo
 
 The chart shows the Hashrate in MH/s, the Power Consumption in Watts and the efficiency (Hashrate per Watt).
 
-|[NVIDIA RTX 3070](https://www.ebay.com/sch/i.html?_from=R40&_nkw=rtx+3070+non-lhr&_sacat=0&rt=nc&Chipset%252FGPU%2520Model=NVIDIA%2520GeForce%2520RTX%25203070&_dcat=27386)|[AMD RX 5700](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=rx+5700+xt&_sacat=0)|
+|NVIDIA RTX 3070|AMD RX 5700|
 |:---:|:---:|
 |Ethash|Ethash|
 |61.786 MH/s|54.282 MH/s|
 |117 W|91 W|
 |0.528 MH/W|0.597 MH/W|
+
+[Ebay link for rtx 3070](https://www.ebay.com/sch/i.html?_from=R40&_nkw=rtx+3070+non-lhr&_sacat=0&rt=nc&Chipset%252FGPU%2520Model=NVIDIA%2520GeForce%2520RTX%25203070&_dcat=27386)
+
+[Ebay link for RX 5700 Ti](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=rx+5700+xt&_sacat=0)
+
+[Amazon link for general search of NVIDIA gtx and rtx cards](https://www.amazon.com/s?k=gtx%2Frtx&rh=n%3A284822&language=en_US)
+
+[Amazon links for general search of AMD cards](https://www.amazon.com/s?k=radeon&rh=n%3A284822&language=en_US)
 
 [Non-LHR vs LHR](https://coincryptonews.com/2021/08/02/lhr-vs-non-lhr-for-gpu-mining-ethrvnergocfxfiro-etc-compared-nvidia-lite-hashrate-limiter-test/). LHR stands for Lite Hash Rate. They are designed to discourage miners from purchasing them. Ensure you purchase Non-LHR graphics cards due to their lower Hashrate. However, they are still sometimes up to 60% to 80% efficient as the original model.
 
