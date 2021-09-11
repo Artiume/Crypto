@@ -140,7 +140,7 @@ Contracts
 
 ## Misc
 
-[IotaWatt}(https://stuff.iotawatt.com/?v=7516fd43adaa)
+[IotaWatt](https://stuff.iotawatt.com/?v=7516fd43adaa)
 
 ### History of Reserve Currencies
 
