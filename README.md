@@ -68,6 +68,8 @@ These standard rigs typically cost about $1000 dollars and can hold typically 8 
 
 #### Graphic Cards (GPU's)
 
+GPU's are rated on Hashrate, Power Usage and Unit Cost. Hashrate is based on how powerful your card is and is the basis for its income.
+
 [Eth Mining Calculator](https://minerstat.com/coin/ETH)
 
 [Graphics Card Comparison](https://minerstat.com/compare), here's an [example](https://minerstat.com/compare/rtx-3070-vs-rx-5700-xt?units1=1&units2=1) of my two preferred cards. Ethereum's protocol is called Ethash. 
