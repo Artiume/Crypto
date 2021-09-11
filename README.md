@@ -20,7 +20,13 @@ Some services such as [MoonPay](https://www.moonpay.com/) will let you use VISA 
 
 ## How to Mine
 
+Each cryptocurrency secures its network with some form of consensus. With [Bitcoin](https://www.blockchain.com/explorer) and [Ethereum](https://etherscan.io/chart/blocktime), they use Proof-of-Work, this is the most known form of Mining. Hardware attempts to solve a puzzle that on average will take an average of X minutes. For Bitcoin, this is every 10 minutes. Ethereum is roughly every 13 seconds. Proof-of-Staking is the second most popular form of mining. It is similar to a savings account, in that, you hold crypto in your wallet and you get APY dividends. Some pay out daily, some weekly. The interest rate is typically between 4% and 6%.
+
+[PoW vs PoS vs PoST](https://www.cloakcoin.com/learn/pow_pos). 
+
 ### Hardware
+
+
 
 [RTX 3070 Settings](https://miningchamber.com/gpu-mining/rtx-3070-mining-settings/)
 
@@ -29,7 +35,11 @@ Some services such as [MoonPay](https://www.moonpay.com/) will let you use VISA 
 
 ASICs are highly specialized, but very expensive equipment. Fake sites are found online all the time so it's hard to find a dealer who isn't a scammer.
 
-[Bitmain Antminer E9](https://bitmainasic.com/product/antminer-e9/) 3GH/s, $13,400.
+[This one](https://bitmainasic.com/product/antminer-e9/) is a scam while [this one](https://shop.bitmain.com/product/detail?pid=00020210906093828676yFf2Be5J0682) should be safe.
+
+[Website Scammer Checker](https://www.scamvoid.net/check/bitmain.com/)
+
+Because of their high cost and possible chance of scams, I
 
 Pools
 
@@ -99,11 +109,7 @@ The different traits of money
 
 [Wal-mart will soon be accepting crypto](https://www.gamerevolution.com/news/690076-walmart-crypto-accepting-bitcoin-dogecoin-shiba-inu-tokens-more).
 
-## Crypto Currency Comparisons
-
-Each cryptocurrency secures its network with some form of consensus. With [Bitcoin](https://www.blockchain.com/explorer) and [Ethereum](https://etherscan.io/chart/blocktime), they use Proof-of-Work, this is the most known form of Mining. Hardware attempts to solve a puzzle that on average will take an average of X minutes. For Bitcoin, this is every 10 minutes. Ethereum is roughly every 13 seconds. 
-
-[PoW vs PoS vs PoST](https://www.cloakcoin.com/learn/pow_pos). 
+## Web3 Interaction
 
 [Cross-Chain Aggregation](https://cointelegraph.com/news/how-cross-chain-liquidity-aggregation-can-shape-the-future-of-defi)
 
