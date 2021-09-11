@@ -77,6 +77,10 @@ The chart shows the Hashrate in MH/s, the Power Consumption in Watts and the eff
 |117 W|91 W|
 |0.528 MH/W|0.597 MH/W|
 
+[Non-LHR vs LHR](https://coincryptonews.com/2021/08/02/lhr-vs-non-lhr-for-gpu-mining-ethrvnergocfxfiro-etc-compared-nvidia-lite-hashrate-limiter-test/). LHR stands for Lite Hash Rate. They are designed to discourage miners from purchasing them. Ensure you purchase Non-LHR graphics cards due to their lower Hashrate. However, they are still sometimes up to 60% to 80% efficient as the original model.
+
+[Bypassing LHR](https://www.techspot.com/news/90803-nvidia-rtx-3000-lhr-cards-limiter-partially-bypassed.html)
+
 ##### NVIDIA GPU HASHRATES
 
 ![nvidia-gpus-mining-hash-rates](https://user-images.githubusercontent.com/20715731/132955853-ea22cd5c-f673-4215-abf6-f5d53f4a6a6a.jpg)
@@ -88,10 +92,6 @@ The chart shows the Hashrate in MH/s, the Power Consumption in Watts and the eff
 [List of GPU prices](https://www.tomshardware.com/news/gpu-pricing-index)
 
 [RTX 3070 Settings](https://miningchamber.com/gpu-mining/rtx-3070-mining-settings/)
-
-[Non-LHR vs LHR](https://coincryptonews.com/2021/08/02/lhr-vs-non-lhr-for-gpu-mining-ethrvnergocfxfiro-etc-compared-nvidia-lite-hashrate-limiter-test/)
-
-[Bypassing LHR](https://www.techspot.com/news/90803-nvidia-rtx-3000-lhr-cards-limiter-partially-bypassed.html)
 
 While I have chosen to focus on Mining Ethereum, it can be more or less efficient to mine other types of coins. Here's a chart showing the different coins and their profitability. I haven't gotten into this type of testing yet. One thing that this chart doesn't include is the Power Usage.
 
