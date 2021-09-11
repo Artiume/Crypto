@@ -28,6 +28,8 @@ Each cryptocurrency secures its network with some form of consensus. With [Bitco
 
 [PoW vs PoS vs PoST](https://www.cloakcoin.com/learn/pow_pos). 
 
+[Top 5 Staking Coins](https://medium.com/coinmonks/top-staking-coins-with-most-potential-in-2021-1391219cf8b).
+
 ### Hardware
 
 
