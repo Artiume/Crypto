@@ -74,15 +74,24 @@ GPU's are rated on Hashrate, Power Usage and Unit Cost. Hashrate is based on how
 
 [Graphics Card Comparison](https://minerstat.com/compare), here's an [example](https://minerstat.com/compare/rtx-3070-vs-rx-5700-xt?units1=1&units2=1) of my two preferred cards. Ethereum's protocol is called Ethash. 
 
-The chart shows the Hashrate in MH/s, the Power Consumption in Watts and the efficiency (Hashrate per Watt).
+The chart shows the Hashrate in MH/s, the Power Consumption in Watts and the efficiency (Hashrate per Watt). 100 MH/s brings in roughly ~.07 Eth. This is roughly ~$250 a month gross at the current exchange rate. 1 KW is 723KW/h per month, at $.1 per KWh, that's roughly $72.30/month per KW. 30 KW is roughly $2200 in electricity. $1500 in rent comes to roughly $3700 in bills.
 
-|NVIDIA RTX 3070|AMD RX 5700 XT|AMD RX 580|
-|:---:|:---:|:---:|
-|Ethash|Ethash|Ethash|
-|61.786 MH/s|54.282 MH/s|32.74 MH/s
-|117 W|91 W|84W|
-|0.528 MH/W|0.597 MH/W|.39 MH/W|
-|$1200-$1600|$1200-$1500|$300-$600|
+|Name: |NVIDIA RTX 3070|AMD RX 5700 XT|AMD RX 580|
+|:---:|:---:|:---:|:---:|
+|Protocol: |Ethash|Ethash|Ethash|
+|Hashrate: |61.786 MH/s|54.282 MH/s|32.74 MH/s|
+|Power Usage: |117 W|91 W|84W|
+|Efficiency: |0.528 MH/W|0.597 MH/W|.39 MH/W|
+|Cost: |$1200-$1600|$1200-$1500|$300-$600|
+|8-GPU Rig Cost: |~$12,200|~$11,800|~$5000|
+|8-GPU Hashrate: |~480 MH/s|~432 MH/s|~256 MH/s|
+|8-GPU Power: |~1600W|~1240W|~1200W|
+|Monthly Income: |~$1200|~$1080|~$640|
+|ROI: |10.1 Months|10.9 Months|7.81 Months|
+|Rigs per 30KW: |18.75|24.30|25|
+|Gross Income per 30KW: |$22,500|$26,244|$16,000|
+|Adjusted Income per 30KW: |$18,800|$22,500|$12,300|
+|Total Cost per 30KW: |$228,750|$286,740|$125,000|
 
 [Ebay link for NVIDIA RTX 3070](https://www.ebay.com/sch/i.html?_from=R40&_nkw=rtx+3070+non-lhr&_sacat=0&rt=nc&Chipset%252FGPU%2520Model=NVIDIA%2520GeForce%2520RTX%25203070&_dcat=27386)
 
