@@ -77,6 +77,8 @@ The chart shows the Hashrate in MH/s, the Power Consumption in Watts and the eff
 |117 W|91 W|
 |0.528 MH/W|0.597 MH/W|
 
+##### NVIDIA GPU HASHRATES
+
 ![nvidia-gpus-mining-hash-rates](https://user-images.githubusercontent.com/20715731/132955853-ea22cd5c-f673-4215-abf6-f5d53f4a6a6a.jpg)
 
 [Large list of ranking various GPU's](https://www.tomshardware.com/reviews/gpu-hierarchy,4388.html).
