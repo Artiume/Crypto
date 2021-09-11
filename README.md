@@ -50,11 +50,11 @@ Proof-of-Staking is the second most popular form of mining. It is similar to a s
 
 [SEC threaten to sue Coinbase over Staking](https://blog.coinbase.com/the-sec-has-told-us-it-wants-to-sue-us-over-lend-we-have-no-idea-why-a3a1b6507009)
 
-### Hardware
+### Proof-of-Work Hardware
 
-Proof-of-Work Mining requires you to use either your computer's processor (CPU), graphics card (GPU), or an [ASIC](https://www.sigenics.com/blog/what-is-an-asic). We will be focusing on GPU mining since it is the most flexible in terms of price, setup and knowledge.
+Proof-of-Work Mining requires you to use either your computer's processor (CPU), graphics card (GPU), or an [ASIC](https://www.sigenics.com/blog/what-is-an-asic). We will be focusing on GPU mining with Ethereum since it is the most flexible in terms of price, setup and knowledge.
 
-Setting up a miner is similar to any other computer, it needs a power supply, motherboard and frame. There are [solutions](https://www.newegg.com/p/2AM-041K-00001?Description=mining%20rig&cm_re=mining_rig-_-9SIAG4BEDP9010-_-Product&quicklink=true) that allow you to buy ready to use rigs that just need GPU's to be installed. For large scale operations, these might need the best way to go since they save a lot of time. Building a rig from stratch can take days. 
+Setting up a miner is similar to any other computer, it needs a power supply, motherboard and frame. There are [solutions](https://www.newegg.com/p/2AM-041K-00001?Description=mining%20rig&cm_re=mining_rig-_-9SIAG4BEDP9010-_-Product&quicklink=true) that allow you to buy ready to use rigs that just need GPU's to be installed. For large scale operations, these might need the best way to go since they save a lot of time. Building a rig from stratch can take days.
 
 ![mining1](https://user-images.githubusercontent.com/20715731/132954854-d8f20abd-6d6f-4552-834a-f1fe44c179f0.jpeg)
 
@@ -127,10 +127,6 @@ The Comparison of Pool Fees - https://help.poolin.com/hc/en-us/articles/36000272
 
 ## Hardware
 
-There are some services called Mining Rig Rentals (MRR's), you can rent equipment that's probably placed in a data center somewhere. I'm not really interested in any of these services.
-
-https://www.miningrigrentals.com/
-
 Non-LHR vs LHR
 
 [Bypassing LHR](https://www.techspot.com/news/90803-nvidia-rtx-3000-lhr-cards-limiter-partially-bypassed.html)
@@ -189,9 +185,13 @@ Contracts
 
 [How to start a DAO](https://www.musicxtechxfuture.com/2021/06/22/blockchain-basics-how-to-start-a-dao/).
 
-## Misc
+https://www.miningrigrentals.com/
 
 [IotaWatt](https://stuff.iotawatt.com/?v=7516fd43adaa)
+
+## Misc
+
+There are some services called Mining Rig Rentals (MRR's), you can rent equipment that's probably placed in a data center somewhere. I'm not really interested in any of these services.
 
 Fold is a neat app that lets you buy gift cards to shops like Amazon, BassPro and even airlines, and earn you satoshi's (the Bitcoin penny) as rewards. [Fold Referral](https://use.foldapp.com/sign-up?referral=XUHEKCWM)
 
