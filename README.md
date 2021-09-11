@@ -52,11 +52,11 @@ Setting up a miner is similar to any other computer, it needs a power supply, mo
 
 [Graphics Card Comparison](https://minerstat.com/compare), here's an [example](https://minerstat.com/compare/rtx-3070-vs-rx-5700-xt?units1=1&units2=1) of my two preferred cards. Ethereum's protocol is called Ethash. 
 
-|NVIDIA RTX 3070|AMD RX 5700|
-|Ethash|Ethash|
-|61.786 MH/s|54.282 MH/s|
+|NVIDIA RTX 3070|AMD RX 5700
+|Ethash|Ethash
+|61.786 MH/s|54.282 MH/s
 |117 W|91 W|
-|0.528 MH/W|0.597 MH/W|
+|0.528 MH/W|0.597 MH/W
 
 
 
