@@ -117,7 +117,7 @@ The Comparison of Pool Fees - https://help.poolin.com/hc/en-us/articles/36000272
 
 [Profit Switching](https://support.awesomeminer.com/support/solutions/articles/35000085714-profit-switching-introduction), another form of mining. 
 
-Hardware
+## Hardware
 
 There are some services called Mining Rig Rentals (MRR's), you can rent equipment that's probably placed in a data center somewhere. I'm not really interested in any of these services.
 
@@ -130,6 +130,12 @@ Non-LHR vs LHR
 GPU Comparison
 
 While I have chosen to focus on Mining Ethereum, it can be more or less efficient to mine other types of coins. Here's a chart showing the different coins and their profitability. I haven't gotten into this type of testing yet. One thing that this chart doesn't include is the Power Usage.
+
+## Software
+
+On Windows, the command to run the software would be similar to the one below. 
+
+`miner.exe -a ethash -s us1.ethermine.org -n 5555 -u 0x4AeC7ecf49F12D442AA9A3403FaD625EAC0B8C17.worker1 --ssl --ssl_verification --logfile miner.log --mt --cclock 0 --mclock 0 --electricity_cost 0.1`
 
 There is also the comparison of the different Mining Software. I currently use [nsfminer](https://github.com/no-fee-ethereum-mining/nsfminer).
 
