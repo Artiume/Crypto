@@ -46,6 +46,10 @@ Setting up a miner is similar to any other computer, it needs a power supply, mo
 
 ![large scale](https://user-images.githubusercontent.com/20715731/132954812-1e67d23c-db87-4ae8-8a27-922a085d15fa.jpeg)
 
+#### Graphic Cards (GPU's)
+
+[Eth Mining Calculator](https://minerstat.com/coin/ETH)
+
 [RTX 3070 Settings](https://miningchamber.com/gpu-mining/rtx-3070-mining-settings/)
 
 #### ASICs
@@ -58,7 +62,7 @@ ASICs are highly specialized, and very expensive equipment. Fake sites are found
 
 Because of their high cost and possible chance of scams, I'm hesitant to delve into them though they would be higher profits and installation time is zero. More downsides to using ASICs are that they cannot be upgraded. Once they become dated, their value drops dramatically and can be hard to resell since their functionality is obsolete whereas GPUs are a lot more flexible and are better at retaining their value and are easier to resell.
 
-Pools
+## Pools
 
 In order to Mine, you either have to Mine by yourself or in a Pool. It is near impossible to Mine solo these days and everybody participate in Pools.
 
@@ -66,7 +70,7 @@ Here's a graph of the different Pools for Bitcoin
 
 ![pools](https://user-images.githubusercontent.com/20715731/132950286-1a4aa8a1-cdf9-496d-bbf8-dbec703a8031.png)
 
- Ethereum
+Ethereum
 
 ![pools eth](https://user-images.githubusercontent.com/20715731/132950284-6fe06af1-9f1f-4e6c-9f25-a9bd3645eb7b.jpg)
 
