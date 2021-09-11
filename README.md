@@ -80,7 +80,9 @@ The different traits of money
 
 [55 out of top 100 Banks are now investing in Cryptos](https://cointelegraph.com/news/55-of-world-s-top-100-banks-reportedly-have-crypto-and-blockchain-exposure).
 
-[wal-mart will soon be accepting crypto](https://www.gamerevolution.com/news/690076-walmart-crypto-accepting-bitcoin-dogecoin-shiba-inu-tokens-more).
+[Second largest mortgage lender United Wholesale Mortgage will start accepting crypto](https://cointelegraph.com/news/second-largest-us-mortgage-lender-will-accept-crypto-payments-this-year).
+
+[Wal-mart will soon be accepting crypto](https://www.gamerevolution.com/news/690076-walmart-crypto-accepting-bitcoin-dogecoin-shiba-inu-tokens-more).
 
 ## Crypto Currency Comparisons
 
