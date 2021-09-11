@@ -2,7 +2,7 @@
 
 ## How to start
 
-The first step is to create a wallet. This is similar to creating a bank account. There are two types of wallets; hot wallets and cold wallets. A hot wallet is the term for a digital wallet or one that is on your phone or computer. 
+The first step is to create a wallet. This is similar to creating a bank account. There are two types of wallets; hot wallets and cold wallets. A hot wallet is the term for a digital wallet or one that is on your phone or computer. Using a software wallet such as [MyEtherWallet (MEW)](https://www.myetherwallet.com/) or [Metamask](https://metamask.io/), here's a [comparison](https://cryptogeek.info/en/compare-wallets/metamask-vs-myetherwallet) of the two.
 
 ### Cold Wallets
 
@@ -10,7 +10,7 @@ A [cold wallet](https://www.bitdegree.org/crypto/cold-wallet) uses a physical ke
 
 ### Exchanges
 
-In order to convert to crypto or to cash, an Exchange is required. Some services such as [MoonPay](https://www.moonpay.com/) will let you use VISA to buy crypto using your debit card. Some Exchanges such as [CoinBase](https://coinbase.com/) will give you your public and private keys in order to control your wallets. Other exchanges such as [eToro](https://www.etoro.com/en-us/) allow you open a spread against a cryptocurrency similar to a stock. Exchanges such as eToro are frowned upon because you are unable to control the crypto wallet, you have to trust eToro to ensure your money is safe. Coinbase provides a flat fee of $3 per $100. [eToro's Fees](https://www.etoro.com/trading/fees/) is based on a small % of the spread so it can fluctaute between a small % to a high %.
+In order to convert to crypto or to cash, an Exchange is required. Some services such as [MoonPay](https://www.moonpay.com/) will let you use VISA to buy crypto using your debit card. Some Exchanges such as [CoinBase](https://coinbase.com/) will give you your public and private keys in order to control your wallets. Other exchanges such as [eToro](https://www.etoro.com/en-us/) allow you open a spread against a cryptocurrency similar to a stock. Exchanges such as eToro are frowned upon because you are unable to control the crypto wallet, you have to trust eToro to ensure your money is safe. Coinbase provides a flat fee of $3 per $100. [eToro's Fees](https://www.etoro.com/trading/fees/) is based on a small % of the spread so it can fluctaute between a small fee to a high fee.
 
 ## How to Mine and its different aspects
 
