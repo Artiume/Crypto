@@ -12,6 +12,10 @@ First install MetaMask either as a phone app or browser plugin. Once ready, open
 
 Now that you're logged into Metamask, you can see a few options to Send, Recieve or Swap. This is just like a bank account in that you can send or receive money. The Swap option is to convert your Ethereum into a token. These are similar to foreign currencies. Swapping Ethereum for a token can be expensive with high network fees and it may be cheaper to use an exchange to buy the currencies directly rather than Swapping them yourself using your private wallet.
 
+### Sending and Recieving Money
+
+In order to send money, you're required to use your Private Key. Key is synonymous with address, so a public address and public key mean the same thing. Metamask does this behind the scenes so you don't have to worry about it. When receiving money, you just need to provide your public address. All public addresses are public. They are visible to everyone in the world and are relatively safe to share. People these days will post their public keys on their websites similar for people to tip them, similar to [Patreon](https://support.patreon.com/hc/en-us/articles/204606315-What-is-Patreon-). Never share your Private Key, if your secret pass phrase or private key is compromised, the wallet is considered Burned and shouldn't be used.
+
 ### Cold Wallets
 
 A [cold wallet](https://www.bitdegree.org/crypto/cold-wallet) uses a physical key similar to a USB drive to secure your wallet. A cold wallet cannot be opened without the hardware key so it's impenetrable but can also be lost or stolen. They cost roughly $100 online, but are the most secure way to protect your crypto, you could literally bury your money.
