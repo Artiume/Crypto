@@ -149,12 +149,6 @@ A Comparison of the different Protocols and their power usage.
 
 ![Protocol vs Power Usage](https://user-images.githubusercontent.com/20715731/132950294-a80bef79-9391-4406-b0a7-93ea6d0d7708.jpg)
 
-## Money Comparison
-
-The different traits of money
-
-![Traits of Money](https://user-images.githubusercontent.com/20715731/132950295-07377a5a-c9fc-4835-a3b9-650c1f2bc820.png)
-
 ### News
 
 [Texas is pushing laws to protect cryptocurrencies in their Constitution](https://cointelegraph.com/news/more-than-a-law-texas-takes-steps-to-amend-bitcoin-into-state-constitution)
@@ -181,6 +175,19 @@ The different traits of money
 
 [How to start a DAO](https://www.musicxtechxfuture.com/2021/06/22/blockchain-basics-how-to-start-a-dao/).
 
+## Money Comparison
+
+The different traits of money
+
+![Traits of Money](https://user-images.githubusercontent.com/20715731/132950295-07377a5a-c9fc-4835-a3b9-650c1f2bc820.png)
+
+### History of Reserve Currencies
+
+[Part 1](https://btcm.co/reserve-currencies-1/)
+[Part 2](https://btcm.co/reserve-currencies-2/)
+[Part 3](https://btcm.co/reserve-currencies-why-european-currencies/)
+[Part 4](https://btcm.co/reserve-currencies-4-spanish-real/)
+
 ## Misc
 
 Fold is a neat app that lets you buy gift cards to shops like Amazon, BassPro and even airlines, and earn you satoshi's (the Bitcoin penny) as rewards. [Fold Referral](https://use.foldapp.com/sign-up?referral=XUHEKCWM)
@@ -190,10 +197,3 @@ Fold is a neat app that lets you buy gift cards to shops like Amazon, BassPro an
 There are some services called Mining Rig Rentals (MRR's), you can rent equipment that's probably placed in a data center somewhere. I'm not really interested in any of these services.
 
 https://www.miningrigrentals.com/
-
-### History of Reserve Currencies
-
-[Part 1](https://btcm.co/reserve-currencies-1/)
-[Part 2](https://btcm.co/reserve-currencies-2/)
-[Part 3](https://btcm.co/reserve-currencies-why-european-currencies/)
-[Part 4](https://btcm.co/reserve-currencies-4-spanish-real/)
