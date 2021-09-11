@@ -121,12 +121,13 @@ Because of their high cost and possible chance of scams, I'm hesitant to delve i
 
 Custom rigs can come in all shapes and sizes
 
+Standard Metal Frame
 ![custom rig 1](https://user-images.githubusercontent.com/20715731/132961244-25d20e05-5c54-43ae-8e9f-a3e4bc01aa99.png)
-
+Wooden Frame
 ![custom rig 2](https://user-images.githubusercontent.com/20715731/132961269-7392e1fd-176e-4dea-9d5a-1f7ed355a625.JPG)
-
+Milk Crates
 ![custom rig 3](https://user-images.githubusercontent.com/20715731/132961284-d1113cea-66a9-4853-b344-1fbaef5e8519.jpg)
-
+Pallets!
 ![custom rigs](https://user-images.githubusercontent.com/20715731/132961246-f68b0b44-1140-4d1c-adbc-8f3c576a1020.jpg)
 
 ## Pools
