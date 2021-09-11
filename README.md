@@ -10,13 +10,13 @@ First install MetaMask either as a phone app or browser plugin. Once ready, open
 
 ### Your First Wallet
 
-Now that you're logged into Metamask, you can see a few options to Send, Recieve or Swap. This is just like a bank account in that you can send or receive money. The Swap option is to convert your Ethereum into a token. These are similar to foreign currencies. Swapping Ethereum for a token can be expensive with high network fees and it may be cheaper to use an exchange to buy the currencies directly rather than Swapping them yourself using your private wallet.
+Now that you're logged into Metamask, you can see a few options to Send, Receive or Swap. This is just like a bank account in that you can send or receive money. The Swap option is to convert your Ethereum into a token. These are similar to foreign currencies. Swapping Ethereum for a token can be expensive with high network fees and it may be cheaper to use an exchange to buy the currencies directly rather than Swapping them yourself using your private wallet.
 
-### Sending and Recieving Money
+### Sending and Receiving Money
 
 In order to send money, you're required to use your Private Key. Key is synonymous with address, so a public address and public key mean the same thing. Metamask does this behind the scenes so you don't have to worry about it. When receiving money, you just need to provide your public address. All public addresses are public. They are visible to everyone in the world and are relatively safe to share. People these days will post their public keys on their websites similar for people to tip them, similar to [Patreon](https://support.patreon.com/hc/en-us/articles/204606315-What-is-Patreon-). Never share your Private Key, if your secret pass phrase or private key is compromised, the wallet is considered Burned and shouldn't be used.
 
-A public key will look similar to 0x4AeC7ecf49F12D442AA9A3403FaD625EAC0B8C17, and using a website such as [etherscan](https://etherscan.io), you can [look](https://etherscan.io/address/0x4AeC7ecf49F12D442AA9A3403FaD625EAC0B8C17) at the address and see it's activity and current value.
+A public key will look similar to 0x4AeC7ecf49F12D442AA9A3403FaD625EAC0B8C17, and using a website such as [etherscan](https://etherscan.io), you can [look](https://etherscan.io/address/0x4AeC7ecf49F12D442AA9A3403FaD625EAC0B8C17) at the address and see its history and current value.
 
 It can also been used as a QR code. This can be useful on websites or in stores where you could scan with your phone. 
 
