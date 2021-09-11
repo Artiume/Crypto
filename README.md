@@ -82,6 +82,8 @@ The different traits of money
 
 [Second largest mortgage lender United Wholesale Mortgage will start accepting crypto](https://cointelegraph.com/news/second-largest-us-mortgage-lender-will-accept-crypto-payments-this-year).
 
+[US Banks can now hold crypto assets for their customers](https://www.cryptoglobe.com/latest/2021/09/u-s-consumers-can-now-buy-and-sell-cardano-ada-directly-from-a-bank-account/).
+
 [Wal-mart will soon be accepting crypto](https://www.gamerevolution.com/news/690076-walmart-crypto-accepting-bitcoin-dogecoin-shiba-inu-tokens-more).
 
 ## Crypto Currency Comparisons
@@ -99,3 +101,10 @@ Contracts
 [Exploring DAO's](https://app.daohaus.club/explore).
 
 [How to start a DAO](https://www.musicxtechxfuture.com/2021/06/22/blockchain-basics-how-to-start-a-dao/).
+
+### History of Reserve Currencies
+
+[Part 1](https://btcm.co/reserve-currencies-1/)
+[Part 2](https://btcm.co/reserve-currencies-2/)
+[Part 3](https://btcm.co/reserve-currencies-why-european-currencies/)
+[Part 4](https://btcm.co/reserve-currencies-4-spanish-real/)
