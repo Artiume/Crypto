@@ -137,7 +137,11 @@ On Windows, the command to run the software would be similar to the one below.
 
 `miner.exe -a ethash -s us1.ethermine.org -n 5555 -u 0x4AeC7ecf49F12D442AA9A3403FaD625EAC0B8C17.worker1 --ssl --ssl_verification --logfile miner.log --mt --cclock 0 --mclock 0 --electricity_cost 0.1`
 
-There is also the comparison of the different Mining Software. I currently use [nsfminer](https://github.com/no-fee-ethereum-mining/nsfminer).
+Linux
+
+`nsfminer -P stratum1+ssl://0x4AeC7ecf49F12D442AA9A3403FaD625EAC0B8C17.worker1:x@us1.ethermine.org:5555 --report-hashrate`
+
+There is also the comparison of the different Mining Software. I currently use [nsfminer](https://github.com/no-fee-ethereum-mining/nsfminer) on Linux.
 
 ![Protocol Comparison](https://user-images.githubusercontent.com/20715731/132950289-77a690d0-6d65-44c5-ad61-8281cc39bd7b.jpg)
 
