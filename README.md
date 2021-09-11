@@ -162,6 +162,8 @@ Pallets!
 
 Rail Rig
 
+![rig 6](https://user-images.githubusercontent.com/20715731/132965605-4e2ff5c8-16eb-45b8-a478-307de337629c.png)
+
 ![mining rig 5](https://user-images.githubusercontent.com/20715731/132961707-23553f58-9b90-4605-9b79-307d21d72c5b.png)
 
 ## Pools
