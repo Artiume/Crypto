@@ -2,11 +2,15 @@
 
 ## How to start
 
-The first step is to create a wallet. This is similar to creating a bank account. There are two types of wallets; hot wallets and cold wallets. A hot wallet is the term for a digital wallet or one that is on your phone or computer. Using a software wallet such as [MyEtherWallet (MEW)](https://www.myetherwallet.com/) or [Metamask](https://metamask.io/), here's a [comparison](https://cryptogeek.info/en/compare-wallets/metamask-vs-myetherwallet) of the two.
+The first step is to create a wallet. This is similar to creating a bank account. There are two types of wallets; hot wallets and cold wallets. A hot wallet is the term for a digital wallet or one that is on your phone or computer. Using a software wallet such as [MyEtherWallet (MEW)](https://www.myetherwallet.com/) or [Metamask](https://metamask.io/), here's a [comparison](https://cryptogeek.info/en/compare-wallets/metamask-vs-myetherwallet) of the two. These are Ethereum based wallets. For different cryptos, different apps would be necessary.
 
 ### Creating a hot wallet
 
-First install MetaMask either as a phone app or browser plugin. Once ready, open the app and click Get Started then Create a new wallet. It'll ask you for a unique password. Next, it'll ask to Secure Your Wallet by creating a Secret Pass Phrase. This is a 12 word code that will recover your wallet in the event that you lose your password. Your unique password actually doesn't matter, the 12 word Pass Phrase is the real password to your wallet. Write it down on paper and place it in a safe because it can be used to recover or steal your wallet.  
+First install MetaMask either as a phone app or browser plugin. Once ready, open the app and click Get Started then Create a new wallet. It'll ask you for a unique password. Next, it'll ask to Secure Your Wallet by creating a Secret Pass Phrase. This is a 12 word code that will recover your wallet in the event that you lose your password. Your unique password actually doesn't matter, the 12 word Pass Phrase is the real password to your wallet. Write it down on paper and place it in a safe because it can be used to recover or steal your wallet. 
+
+### Your First Wallet
+
+Now that you're logged into Metamask, you can see a few options to Send, Recieve or Swap. This is just like a bank account in that you can send or receive money. The Swap option is to convert your Ethereum into a token. These are similar to foreign currencies. Swapping Ethereum for a token can be expensive with high network fees and it may be cheaper to use an exchange to buy the currencies directly rather than Swapping them yourself using your private wallet.
 
 ### Cold Wallets
 
