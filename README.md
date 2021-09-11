@@ -16,6 +16,10 @@ Now that you're logged into Metamask, you can see a few options to Send, Recieve
 
 In order to send money, you're required to use your Private Key. Key is synonymous with address, so a public address and public key mean the same thing. Metamask does this behind the scenes so you don't have to worry about it. When receiving money, you just need to provide your public address. All public addresses are public. They are visible to everyone in the world and are relatively safe to share. People these days will post their public keys on their websites similar for people to tip them, similar to [Patreon](https://support.patreon.com/hc/en-us/articles/204606315-What-is-Patreon-). Never share your Private Key, if your secret pass phrase or private key is compromised, the wallet is considered Burned and shouldn't be used.
 
+A public key will look similar to 0x4AeC7ecf49F12D442AA9A3403FaD625EAC0B8C17. It can also been used as a QR code.
+
+![eth](https://user-images.githubusercontent.com/20715731/132955996-e2aa29c7-9d39-40e9-ae6e-f302437dced4.png)
+
 ### Cold Wallets
 
 A [cold wallet](https://www.bitdegree.org/crypto/cold-wallet) uses a physical key similar to a USB drive to secure your wallet. A cold wallet cannot be opened without the hardware key so it's impenetrable but can also be lost or stolen. They cost roughly $100 online, but are the most secure way to protect your crypto, you could literally bury your money.
