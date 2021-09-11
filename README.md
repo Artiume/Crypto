@@ -38,6 +38,8 @@ GPU Comparison
 
 While I have chosen to focus on Mining Ethereum, it can be more or less efficient to mine other types of coins. Here's a chart showing the different coins and their profitability. I haven't gotten into this type of testing yet. One thing that this chart doesn't include is the Power Usage.
 
+There is also the comparison of the different Mining Software. I currently use [nsfminer](https://github.com/no-fee-ethereum-mining/nsfminer).
+
 ![Protocol Comparison](https://user-images.githubusercontent.com/20715731/132950289-77a690d0-6d65-44c5-ad61-8281cc39bd7b.jpg)
 
 A Comparison of the different Protocols and their power usage.
@@ -49,3 +51,11 @@ A Comparison of the different Protocols and their power usage.
 Money Comparison
 
 ![Traits of Money](https://user-images.githubusercontent.com/20715731/132950295-07377a5a-c9fc-4835-a3b9-650c1f2bc820.png)
+
+Crypto Currency Comparisons
+
+Each cryptocurrency secures its network with some form of consensus. With [Bitcoin](https://www.blockchain.com/explorer) and [Ethereum](https://etherscan.io/chart/blocktime), they use Proof-of-Work, this is the most known form of Mining. Hardware attempts to solve a puzzle that on average will take an average of X minutes. For Bitcoin, this is every 10 minutes. Ethereum is roughly every 13 seconds. 
+
+[PoW vs PoS vs PoST](https://www.cloakcoin.com/learn/pow_pos). 
+
+[Cross-Chain Aggregation](https://cointelegraph.com/news/how-cross-chain-liquidity-aggregation-can-shape-the-future-of-defi)
