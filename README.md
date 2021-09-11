@@ -121,8 +121,6 @@ Non-LHR vs LHR
 
 GPU Comparison
 
-![Hashrate GPU Comparison](https://user-images.githubusercontent.com/20715731/132950279-fa06211c-ab7d-45ba-bb84-b8ec672566cf.jpg)
-
 While I have chosen to focus on Mining Ethereum, it can be more or less efficient to mine other types of coins. Here's a chart showing the different coins and their profitability. I haven't gotten into this type of testing yet. One thing that this chart doesn't include is the Power Usage.
 
 There is also the comparison of the different Mining Software. I currently use [nsfminer](https://github.com/no-fee-ethereum-mining/nsfminer).
