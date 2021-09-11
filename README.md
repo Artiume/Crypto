@@ -6,7 +6,7 @@ The first step is to create a wallet. This is similar to creating a bank account
 
 ### Creating a hot wallet
 
-First install 
+First install MEW 
 
 ### Cold Wallets
 
@@ -27,7 +27,7 @@ Some services such as [MoonPay](https://www.moonpay.com/) will let you use VISA 
 
 #### ASICs
 
-ASICs are highly specialized, but very expensive equipment.
+ASICs are highly specialized, but very expensive equipment. Fake sites are found online all the time so it's hard to find a dealer who isn't a scammer.
 
 [Bitmain Antminer E9](https://bitmainasic.com/product/antminer-e9/) 3GH/s, $13,400.
 
