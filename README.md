@@ -38,17 +38,17 @@ Some services such as [MoonPay](https://www.moonpay.com/) will let you use VISA 
 
 Each cryptocurrency secures its network with some form of consensus. With [Bitcoin](https://www.blockchain.com/explorer) and [Ethereum](https://etherscan.io/chart/blocktime), they use Proof-of-Work, this is the most known form of Mining. Hardware attempts to solve a puzzle that on average will take an average of X minutes. For Bitcoin, this is every 10 minutes. Ethereum is roughly every 13 seconds. 
 
+[Proof-of-Work (PoW) vs Proof-of-Stake (PoS)](https://www.kraken.com/en-us/learn/proof-of-work-vs-proof-of-stake). 
+
 ### Proof-of-Staking
 
 Proof-of-Staking is the second most popular form of mining. It is similar to a savings account, in that, you hold crypto in your wallet and you get APY dividends. While it technically requires hardware to perform staking, many exchanges such as CoinBase offering Staking services so there's no setup on your end. Some cryptos pay out daily, some weekly. The interest rate is typically between 4% and 6%. If staking via an exchange, they typically a [small fee](https://coinsutra.com/best-ethereum-staking-platforms/) of the staking reward.
 
-[Proof-of-Work (PoW) vs Proof-of-Stake (PoS)](https://www.kraken.com/en-us/learn/proof-of-work-vs-proof-of-stake). 
+[Staking Services Comparison](https://beaconcha.in/stakingServices).
 
 [Couple sue IRS over Proof of Staking Current Tax Laws](https://decrypt.co/71943/tezos-users-sue-irs-over-crypto-tax-staking-rules)
 
 [SEC threaten to sue Coinbase over Staking](https://blog.coinbase.com/the-sec-has-told-us-it-wants-to-sue-us-over-lend-we-have-no-idea-why-a3a1b6507009)
-
-[Staking Services Comparison](https://beaconcha.in/stakingServices).
 
 ### Hardware
 
