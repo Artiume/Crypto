@@ -177,7 +177,7 @@ The different traits of money
 
 [Cross-Chain Aggregation](https://cointelegraph.com/news/how-cross-chain-liquidity-aggregation-can-shape-the-future-of-defi)
 
-Contracts
+[Contracts](https://ethereum.org/en/developers/docs/smart-contracts/)
 
 [DAO's](https://ethereum.org/en/dao/).
 
