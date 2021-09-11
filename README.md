@@ -76,12 +76,13 @@ GPU's are rated on Hashrate, Power Usage and Unit Cost. Hashrate is based on how
 
 The chart shows the Hashrate in MH/s, the Power Consumption in Watts and the efficiency (Hashrate per Watt).
 
-|NVIDIA RTX 3070|AMD RX 5700 XT|
-|:---:|:---:|
-|Ethash|Ethash|
-|61.786 MH/s|54.282 MH/s|
-|117 W|91 W|
-|0.528 MH/W|0.597 MH/W|
+|NVIDIA RTX 3070|AMD RX 5700 XT|AMD RX 580|
+|:---:|:---:|:---:|
+|Ethash|Ethash|Ethash|
+|61.786 MH/s|54.282 MH/s|32.74 MH/s
+|117 W|91 W|84W|
+|0.528 MH/W|0.597 MH/W|.39 MH/W|
+|$1200-$1600|$1200-$1500|$300-$600|
 
 [Ebay link for NVIDIA RTX 3070](https://www.ebay.com/sch/i.html?_from=R40&_nkw=rtx+3070+non-lhr&_sacat=0&rt=nc&Chipset%252FGPU%2520Model=NVIDIA%2520GeForce%2520RTX%25203070&_dcat=27386)
 
