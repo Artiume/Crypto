@@ -1,4 +1,3 @@
-![Hashrate GPU Comparison](https://user-images.githubusercontent.com/20715731/132950279-fa06211c-ab7d-45ba-bb84-b8ec672566cf.jpg)
 # Crypto
 
 How to Mine and its different aspects
@@ -6,7 +5,6 @@ How to Mine and its different aspects
 Pools
 
 In order to Mine, you either have to Mine by yourself or in a Pool. It is near impossible to Mine solo these days and everybody participate in Pools.
-
 
 Here's a graph of the different Pools for Bitcoin
 
@@ -16,21 +14,17 @@ Here's a graph of the different Pools for Bitcoin
 
 ![pools eth](https://user-images.githubusercontent.com/20715731/132950284-6fe06af1-9f1f-4e6c-9f25-a9bd3645eb7b.jpg)
 
-I currently use ethermine.org as my pool
+I currently use [ethermine](ethermine.org) as my pool.
 
-I have used nanopool in the past.
+I have used [nanopool](https://www.nanopool.org/) in the past.
 
-https://www.nanopool.org/
+[ETH Pool Live Stats](https://miningpoolstats.stream/ethereum)
 
-Live Stats - https://miningpoolstats.stream/ethereum
-
-Alternative Website - https://www.poolwatch.io/coin/ethereum
+[Alternative Website](https://www.poolwatch.io/coin/ethereum)
 
 Bitcoin Node Monitor - https://bitnodes.io/
 
 The Comparison of Pool Fees - https://help.poolin.com/hc/en-us/articles/360002728472-What-are-PPS-PPLNS-PPS-FPPS-SOLO-
-
-
 
 Hardware
 
@@ -38,10 +32,9 @@ There are some services called Mining Rig Rentals (MRR's), you can rent equipmen
 
 https://www.miningrigrentals.com/
 
+GPU Comparison
 
-
-
-https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvertcoin.fun%2Fwp-content%2Fuploads%2FVertcoin-GPU-Hashrate-Graphics-Card-Comparison-Chart-for-Verthash.jpg&f=1&nofb=1
+![Hashrate GPU Comparison](https://user-images.githubusercontent.com/20715731/132950279-fa06211c-ab7d-45ba-bb84-b8ec672566cf.jpg)
 
 While I have chosen to focus on Mining Ethereum, it can be more or less efficient to mine other types of coins. Here's a chart showing the different coins and their profitability. I haven't gotten into this type of testing yet. One thing that this chart doesn't include is the Power Usage.
 
