@@ -89,7 +89,7 @@ The chart shows the Hashrate in MH/s, the Power Consumption in Watts and the eff
 
 [Bypassing LHR](https://www.techspot.com/news/90803-nvidia-rtx-3000-lhr-cards-limiter-partially-bypassed.html)
 
-##### NVIDIA GPU HASHRATES
+NVIDIA GPU HASHRATES
 
 ![nvidia-gpus-mining-hash-rates](https://user-images.githubusercontent.com/20715731/132955853-ea22cd5c-f673-4215-abf6-f5d53f4a6a6a.jpg)
 
@@ -116,6 +116,18 @@ ASICs are highly specialized, and very expensive equipment. Fake sites are found
 [ASIC Profitibility Chart](https://www.whattomine.com/miners)
 
 Because of their high cost and possible chance of scams, I'm hesitant to delve into them though they would be higher profits and installation time is zero. More downsides to using ASICs are that they cannot be upgraded. Once they become dated, their value drops dramatically and can be hard to resell since their functionality is obsolete whereas GPUs are a lot more flexible and are better at retaining their value and are easier to resell.
+
+#### Building a Custom Rig
+
+Custom rigs can come in all shapes and sizes
+
+![custom rig 1](https://user-images.githubusercontent.com/20715731/132961244-25d20e05-5c54-43ae-8e9f-a3e4bc01aa99.png)
+
+![custom rig 2](https://user-images.githubusercontent.com/20715731/132961269-7392e1fd-176e-4dea-9d5a-1f7ed355a625.JPG)
+
+![custom rig 3](https://user-images.githubusercontent.com/20715731/132961284-d1113cea-66a9-4853-b344-1fbaef5e8519.jpg)
+
+![custom rigs](https://user-images.githubusercontent.com/20715731/132961246-f68b0b44-1140-4d1c-adbc-8f3c576a1020.jpg)
 
 ## Pools
 
