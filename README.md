@@ -167,6 +167,8 @@ Contracts
 
 [IotaWatt](https://stuff.iotawatt.com/?v=7516fd43adaa)
 
+[Fold Referral](https://use.foldapp.com/sign-up?referral=XUHEKCWM)
+
 ### History of Reserve Currencies
 
 [Part 1](https://btcm.co/reserve-currencies-1/)
