@@ -6,7 +6,7 @@ The first step is to create a wallet. This is similar to creating a bank account
 
 ### Creating a hot wallet
 
-First install MetaMask either as a phone app or browser plugin. Once ready, open the app and click Get Started then Create a new wallet. It'll ask you for a unique password. Next, it'll ask to Secure Your Wallet by creating a Secret Pass Phrase. This is a 12 word code that will recover your wallet in the event that you lose your password. Your unique password actually doesn't matter, the 12 word Pass Phrase is the real password to your wallet. Write it down on paper and place it in a safe because it can be used to recover or steal your wallet. 
+First install MetaMask either as a phone app or browser plugin. Once ready, open the app and click Get Started then Create a new wallet. It'll ask you for a unique password. Next, it'll ask to Secure Your Wallet by creating a Secret Pass Phrase. This is a 12 word code that will recover your wallet in the event that you lose your password. Your unique password actually doesn't matter, the 12 word Pass Phrase is the real password to your wallet. Write it down on paper and place it in a safe because it can be used to recover or steal your wallet. If you can remember the 12 words forever, you can go anywhere in the world with your wallet safe in your mind.
 
 ### Your First Wallet
 
