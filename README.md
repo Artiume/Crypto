@@ -48,7 +48,7 @@ Proof-of-Staking is the second most popular form of mining. It is similar to a s
 
 [Couple sue IRS over Proof of Staking Current Tax Laws](https://decrypt.co/71943/tezos-users-sue-irs-over-crypto-tax-staking-rules)
 
-[SEC threaten to sue Coinbase over Staking](https://blog.coinbase.com/the-sec-has-told-us-it-wants-to-sue-us-over-lend-we-have-no-idea-why-a3a1b6507009)
+[SEC threaten to sue Coinbase over offering Staking to customers](https://blog.coinbase.com/the-sec-has-told-us-it-wants-to-sue-us-over-lend-we-have-no-idea-why-a3a1b6507009)
 
 ### Proof-of-Work Hardware
 
