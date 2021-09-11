@@ -181,7 +181,7 @@ Contracts
 
 [IotaWatt](https://stuff.iotawatt.com/?v=7516fd43adaa)
 
-[Fold Referral](https://use.foldapp.com/sign-up?referral=XUHEKCWM)
+Fold is a neat app that lets you buy gift cards to shops like Amazon, BassPro and even airlines, and earn you satoshi's (the Bitcoin penny) as rewards. [Fold Referral](https://use.foldapp.com/sign-up?referral=XUHEKCWM)
 
 ### History of Reserve Currencies
 
