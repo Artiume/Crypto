@@ -52,6 +52,8 @@ Setting up a miner is similar to any other computer, it needs a power supply, mo
 
 [Graphics Card Comparison](https://minerstat.com/compare), here's an [example](https://minerstat.com/compare/rtx-3070-vs-rx-5700-xt?units1=1&units2=1) of my two preferred cards. Ethereum's protocol is called Ethash. 
 
+The chart shows the Hashrate in MH/s, the Power Consumption in Watts and the efficiency (Hashrate per Watt).
+
 |NVIDIA RTX 3070|AMD RX 5700|
 |:---:|:---:|
 |Ethash|Ethash|
@@ -59,9 +61,13 @@ Setting up a miner is similar to any other computer, it needs a power supply, mo
 |117 W|91 W|
 |0.528 MH/W|0.597 MH/W|
 
+![nvidia-gpus-mining-hash-rates](https://user-images.githubusercontent.com/20715731/132955853-ea22cd5c-f673-4215-abf6-f5d53f4a6a6a.jpg)
 
+[Large list of ranking various GPU's](https://www.tomshardware.com/reviews/gpu-hierarchy,4388.html).
 
+[GPU Profibility Ranking](https://www.whattomine.com/gpus), this ranking is nice because it compares each graphics card by daily profit. It doesn't take into account price or efficiency. 
 
+[List of GPU prices](https://www.tomshardware.com/news/gpu-pricing-index).
 
 [RTX 3070 Settings](https://miningchamber.com/gpu-mining/rtx-3070-mining-settings/)
 
@@ -72,6 +78,8 @@ ASICs are highly specialized, and very expensive equipment. Fake sites are found
 [This one](https://bitmainasic.com/product/antminer-e9/) is a scam while [this one](https://shop.bitmain.com/product/detail?pid=00020210906093828676yFf2Be5J0682) should be safe.
 
 [Website Scammer Checker](https://www.scamvoid.net/check/bitmain.com/)
+
+[ASIC Profitibility Chart](https://www.whattomine.com/miners)
 
 Because of their high cost and possible chance of scams, I'm hesitant to delve into them though they would be higher profits and installation time is zero. More downsides to using ASICs are that they cannot be upgraded. Once they become dated, their value drops dramatically and can be hard to resell since their functionality is obsolete whereas GPUs are a lot more flexible and are better at retaining their value and are easier to resell.
 
@@ -98,6 +106,8 @@ I have used [nanopool](https://www.nanopool.org/) in the past.
 Bitcoin Node Monitor - https://bitnodes.io/
 
 The Comparison of Pool Fees - https://help.poolin.com/hc/en-us/articles/360002728472-What-are-PPS-PPLNS-PPS-FPPS-SOLO-
+
+[Profit Switching](https://support.awesomeminer.com/support/solutions/articles/35000085714-profit-switching-introduction), another form of mining. 
 
 Hardware
 
