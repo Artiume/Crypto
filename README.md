@@ -32,20 +32,22 @@ Each cryptocurrency secures its network with some form of consensus. With [Bitco
 
 ### Hardware
 
+Proof-of-Work Mining requires you to use either your computer's processor (CPU), graphics card (GPU), or an [ASIC](https://www.sigenics.com/blog/what-is-an-asic). We will be focusing on GPU mining since it is the most flexible in terms of price, setup and knowledge.
 
+Setting up a miner is similar to any other computer, it needs a power supply, motherboard and frame. There are [solutions]
+(http://alto-crypto.com/product/custom-7-gpu-daughterboard-custom-psu-combo/) that allow you to buy ready to use rigs that just need GPU's to be installed. For large scale operations, these might need the best way to go since they save a lot of time. Building a rig from stratch can take days. 
 
 [RTX 3070 Settings](https://miningchamber.com/gpu-mining/rtx-3070-mining-settings/)
 
-
 #### ASICs
 
-ASICs are highly specialized, but very expensive equipment. Fake sites are found online all the time so it's hard to find a dealer who isn't a scammer.
+ASICs are highly specialized, and very expensive equipment. Fake sites are found online all the time so it's hard to find a dealer who isn't a scammer.
 
 [This one](https://bitmainasic.com/product/antminer-e9/) is a scam while [this one](https://shop.bitmain.com/product/detail?pid=00020210906093828676yFf2Be5J0682) should be safe.
 
 [Website Scammer Checker](https://www.scamvoid.net/check/bitmain.com/)
 
-Because of their high cost and possible chance of scams, I
+Because of their high cost and possible chance of scams, I'm hesitant to delve into them though they would be higher profits and installation time is zero. More downsides to using ASICs are that they cannot be upgraded. Once they become dated, their value drops dramatically and can be hard to resell since their functionality is obsolete whereas GPUs are a lot more flexible and are better at retaining their value and are easier to resell.
 
 Pools
 
