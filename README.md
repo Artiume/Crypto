@@ -22,9 +22,9 @@
 
 ## What is a cryptocurrency
 
-a decentralized digital ledger that is incorruptible, unfalsifiable, and indestructible.
-
 Cryptocurrency is a Settlement Network. It maintains a ledger of anyones' accounts. Allowing a decentralized digital ledger that is incorruptible, unfalsifiable, and indestructible of [unit account for everyone.](https://blog.chainalysis.com/reports/bitcoin-addresses)  There are two main components to cryptocurrency with a growing number of additional components as Web3 grows. The ledger, also known as the blockchain and its associated coin.
+
+[Blockchain, explained](https://www.theverge.com/22654785/blockchain-explained-cryptocurrency-what-is-stake-nft)
 
 ## How to start
 
