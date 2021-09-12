@@ -160,6 +160,8 @@ Because of their high cost and possible chance of scams, I'm hesitant to delve i
 
 Custom rigs can come in all shapes and sizes
 
+[Manual for building a Custom Rig](https://app.sellwire.net/p/2s1)
+
 Standard Metal Frame
 
 ![custom rig 1](https://user-images.githubusercontent.com/20715731/132961244-25d20e05-5c54-43ae-8e9f-a3e4bc01aa99.png)
