@@ -272,6 +272,8 @@ A Comparison of the different Protocols and their power usage.
 
  * [What Is the Bitcoin Lightning Network? How Does It Work?](https://www.sofi.com/learn/content/lightning-network/) Lightning is a decentralized network that uses smart contract functionality in the Bitcoin blockchain to facilitate instant payments across a network of users. It’s considered an off-chain or layer-2 solution because it involves activity that doesn’t occur directly on the blockchain. 
 
+ * [What is Polygon (MATIC) and Why It Matters for Ethereum.](https://decrypt.co/resources/what-is-polygon-matic-and-why-it-matters-for-ethereum) Formerly known as Matic Network, Polygon is an interoperability Layer-2 and scaling framework for building Ethereum-compatible blockchains. 
+
  * [Cross-Chain Aggregation](https://cointelegraph.com/news/how-cross-chain-liquidity-aggregation-can-shape-the-future-of-defi)
 
  * [Contracts](https://ethereum.org/en/developers/docs/smart-contracts/)
