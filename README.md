@@ -24,7 +24,7 @@
 
 a decentralized digital ledger that is incorruptible, unfalsifiable, and indestructible.
 
-Cryptocurrency is a Settlement Network. It maintains a ledger of anyones' accounts. Allowing a decentralized digital ledger that is incorruptible, unfalsifiable, and indestructible of [unit account for everyone.](https://blog.chainalysis.com/reports/bitcoin-addresses)  There are two main components to cryptocurrency with a growing number of additional components as Web3 grows. The ledger, also known as the blockchain and its associated coin. A cryptocurrency similar to a Coin is a Token, it may be bought and sold similar to coins. In addition to Tokens, there are also smart contracts, decentralized autonomous organization (DAO's), and more. See the Web3 section for more.
+Cryptocurrency is a Settlement Network. It maintains a ledger of anyones' accounts. Allowing a decentralized digital ledger that is incorruptible, unfalsifiable, and indestructible of [unit account for everyone.](https://blog.chainalysis.com/reports/bitcoin-addresses)  There are two main components to cryptocurrency with a growing number of additional components as Web3 grows. The ledger, also known as the blockchain and its associated coin.
 
 ## How to start
 
@@ -305,6 +305,8 @@ A Comparison of the different Protocols and their power usage.
  * [Token Market Cap.](https://coinmarketcap.com/tokens/)
 
 ## Money
+
+ A cryptocurrency similar to a Coin is a Token, it may be bought and sold similar to coins. In addition to Tokens, there are also smart contracts, decentralized autonomous organization (DAO's), and more. See the Web3 section for more.
 
  * [Dollar cost averaging (DCA)](https://en.wikipedia.org/wiki/Dollar_cost_averaging) is an investment strategy that aims to reduce the impact of volatility on large purchases of financial assets such as equities. Dollar cost averaging is also called the constant dollar plan (in the US), pound-cost averaging (in the UK), and, irrespective of currency, unit cost averaging, incremental trading, or the cost average effect.
 
