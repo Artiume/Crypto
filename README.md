@@ -188,6 +188,10 @@ I have used [nanopool](https://www.nanopool.org/) in the past.
 
 The Comparison of Pool Fees - https://help.poolin.com/hc/en-us/articles/360002728472-What-are-PPS-PPLNS-PPS-FPPS-SOLO-
 
+## Legal
+
+[Wyoming has passed laws to help clarify and promote cryptocurrencies](https://www.jdsupra.com/legalnews/crypto-daos-and-the-wyoming-frontier-9251606/)
+
 ## Software
 
 On Windows, the command to run the software would be similar to the one below. 
