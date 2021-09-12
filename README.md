@@ -274,6 +274,8 @@ A Comparison of the different Protocols and their power usage.
 
  * [How does a smart contract work?](https://decrypt.co/resources/smart-contracts) Smart Contracts are contracts expressed as a piece of code that are designed to carry out a set of instructions. The term “smart contract” was coined in the 1990s, in an academic paper created by Nick Szabo. Dapps, or decentralized apps, are essentially a series of linked smart contracts.
 
+ * [Multi-Signature Contracts](https://gnosis-safe.io/)
+
  * [Ethereum (ETH) is much more than a cryptocurrency.](https://beincrypto.com/learn/nfts-explainer/) Thanks to its flexibility and programmability, Ethereum made it possible to build smart contracts, also called decentralized applications — dApps.
 
  * [What is a dapp (decentralized application)?](https://decrypt.co/resources/dapps) They are like normal apps, and offer similar functions, but the key difference is they are run on a peer-to-peer network, such as a blockchain. That means no one person or entity has control of the network.
