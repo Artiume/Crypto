@@ -206,7 +206,7 @@ The Comparison of Pool Fees - https://help.poolin.com/hc/en-us/articles/36000272
 
 ## Legal
 
-[Wyoming has passed laws to help clarify and promote cryptocurrencies](https://www.jdsupra.com/legalnews/crypto-daos-and-the-wyoming-frontier-9251606/)
+[On July 1, 2021, Wyoming’s Decentralized Autonomous Organization (“DAO”) law (Wy. Stat. § 17-31-101 through 17-31-115) became effective. This makes Wyoming the first U.S. state to clarify the legal status of, and legally recognize as a separate entity, a decentralized autonomous organization and its members, and it helps lay the foundation for this growing sector to provide a formal legal entity structure for those participating in unincorporated groups whose governance is generally coded into smart contracts.](https://www.jdsupra.com/legalnews/crypto-daos-and-the-wyoming-frontier-9251606/)
 
 [Texas is pushing laws to protect cryptocurrencies in their Constitution](https://cointelegraph.com/news/more-than-a-law-texas-takes-steps-to-amend-bitcoin-into-state-constitution)
 
