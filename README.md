@@ -270,6 +270,8 @@ A Comparison of the different Protocols and their power usage.
 
 ## Web3 Interaction
 
+ * [Explore Decentralized Applications](https://www.stateofthedapps.com/)
+
  * [What is the difference between Coins and Tokens?](https://www.ledger.com/academy/crypto/what-is-the-difference-between-coins-and-tokens)
 
  * [How does a smart contract work?](https://decrypt.co/resources/smart-contracts) Smart Contracts are contracts expressed as a piece of code that are designed to carry out a set of instructions. The term “smart contract” was coined in the 1990s, in an academic paper created by Nick Szabo. Dapps, or decentralized apps, are essentially a series of linked smart contracts.
