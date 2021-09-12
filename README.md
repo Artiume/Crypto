@@ -26,8 +26,6 @@ a decentralized digital ledger that is incorruptible, unfalsifiable, and indestr
 
 Cryptocurrency is a Settlement Network. It maintains a ledger of anyones' accounts. Allowing a decentralized digital ledger that is incorruptible, unfalsifiable, and indestructible of [unit account for everyone.](https://blog.chainalysis.com/reports/bitcoin-addresses)  There are two main components to cryptocurrency with a growing number of additional components as Web3 grows. The ledger, also known as the blockchain and its associated coin. A cryptocurrency similar to a Coin is a Token, it may be bought and sold similar to coins. In addition to Tokens, there are also smart contracts, decentralized autonomous organization (DAO's), and more. See the Web3 section for more.
 
-The Bitcoin blockchain currently uses the RIPE-MD160 hash function, as long as this protocol is used, [2^160 Bitcoin addresses are possible.](https://steadyblockchain.com/exactly-how-many-possible-bitcoin-addresses-could-be-created/) This makes exactly 1,461,501,637,330,902,918,203,684,832,716,283,019,655,932,542,976 possible Bitcoin addresses. If all Bitcoin addresses where equally distributed to everyone on earth, each person would get 196,385,600,286,334,710,857,791,565,804,391,698,421 Bitcoin addresses.
-
 ## How to start
 
 The first step is to create a wallet. This is similar to creating a bank account. There are two types of wallets; hot wallets and cold wallets. A hot wallet is the term for a digital wallet or one that is on your phone or computer. Using a software wallet such as [MyEtherWallet (MEW)](https://www.myetherwallet.com/) or [Metamask](https://metamask.io/), here's a [comparison of the two](https://cryptogeek.info/en/compare-wallets/metamask-vs-myetherwallet). These are Ethereum based wallets. For different cryptos, different apps would be necessary.
@@ -315,6 +313,8 @@ A Comparison of the different Protocols and their power usage.
  * [Warren Buffett](https://cointelegraph.com/news/warren-buffett-praises-stocks-dollar-cost-averaging-but-does-it-work-for-bitcoin) praises stocks dollar-cost averaging — But does it work for Bitcoin? Warren Buffett likes to dollar-cost average into major stock market indices but data shows that the same strategy has worked very well for Bitcoin buyers too. Warren Buffett has a message to young investors: dollar-cost average into major stock market indices. However, data shows that the same strategy has worked quite well for Bitcoin (BTC) too over the past decade.
 
  * [Bitcoin’s expensive](https://cointelegraph.com/news/bitcoin-s-expensive-but-this-technique-proves-it-s-never-too-late-to-buy-btc) but this technique proves it’s never too late to buy BTC. Retail investors may think Bitcoin is now too expensive to buy, but dollar-cost averaging has proven to be one of the most effective methods available.
+
+The Bitcoin blockchain currently uses the RIPE-MD160 hash function, as long as this protocol is used, [2^160 Bitcoin addresses are possible.](https://steadyblockchain.com/exactly-how-many-possible-bitcoin-addresses-could-be-created/) This makes exactly 1,461,501,637,330,902,918,203,684,832,716,283,019,655,932,542,976 possible Bitcoin addresses. If all Bitcoin addresses where equally distributed to everyone on earth, each person would get 196,385,600,286,334,710,857,791,565,804,391,698,421 Bitcoin addresses.
 
 ### History of Reserve Currencies
 
