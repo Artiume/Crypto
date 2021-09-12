@@ -1,29 +1,12 @@
 # Crypto
 
-<!DOCTYPE html><html><head><meta charset="utf-8" />
-<li class="h2"><a href="#how-to-start">How to start</a></li>
-<li class="h3"><a href="#creating-a-hot-wallet">Creating a hot wallet</a></li>
-<li class="h3"><a href="#your-first-wallet">Your First Wallet</a></li>
-<li class="h3"><a href="#sending-and-receiving-money">Sending and Receiving Money</a></li>
-<li class="h3"><a href="#cold-wallets">Cold Wallets</a></li>
-<li class="h3"><a href="#exchanges">Exchanges</a></li>
-<li class="h2"><a href="#how-to-mine">How to Mine</a></li>
-<li class="h3"><a href="#proof-of-staking">Proof-of-Staking</a></li>
-<li class="h3"><a href="#proof-of-work-hardware">Proof-of-Work Hardware</a></li>
-<li class="h2"><a href="#pools">Pools</a></li>
-<li class="h2"><a href="#legal">Legal</a></li>
-<li class="h2"><a href="#software">Software</a></li>
-<li class="h3"><a href="#news">News</a></li>
-<li class="h2"><a href="#web3-interaction">Web3 Interaction</a></li>
-<li class="h2"><a href="#money-comparison">Money Comparison</a></li>
-<li class="h3"><a href="#history-of-reserve-currencies">History of Reserve Currencies</a></li>
-<li class="h2"><a href="#misc">Misc</a></li>
+
 
 ## How to start
 
 The first step is to create a wallet. This is similar to creating a bank account. There are two types of wallets; hot wallets and cold wallets. A hot wallet is the term for a digital wallet or one that is on your phone or computer. Using a software wallet such as [MyEtherWallet (MEW)](https://www.myetherwallet.com/) or [Metamask](https://metamask.io/), here's a [comparison of the two](https://cryptogeek.info/en/compare-wallets/metamask-vs-myetherwallet). These are Ethereum based wallets. For different cryptos, different apps would be necessary.
 
-### Creating a hot wallet
+## Creating a hot wallet
 
 First install MetaMask either as a phone app or browser plugin. Once ready, open the app and click Get Started then Create a new wallet. It'll ask you for a unique password. Next, it'll ask to Secure Your Wallet by creating a Secret Pass Phrase. This is a 12 word code that will recover your wallet in the event that you lose your password. Your unique password actually doesn't matter, the 12 word Pass Phrase is the real password to your wallet. Write it down on paper and place it in a safe because it can be used to recover or steal your wallet. If you can remember the 12 words forever, you can go anywhere in the world with your wallet safe in your mind.
 
@@ -47,7 +30,7 @@ It can also been used as a QR code. This can be useful on websites or in stores 
 
 A [cold wallet](https://www.bitdegree.org/crypto/cold-wallet) uses a physical key similar to a USB drive to secure your wallet. A cold wallet cannot be opened without the hardware key so it's impenetrable but can also be lost or stolen. They cost roughly $100 online, but are the most secure way to protect your crypto, you could literally bury your money.
 
-### Exchanges
+## Exchanges
 
 In order to convert to cash or buy crypto, an Exchange is required. They are finance institutions similar to banks and have [Know Your Customer](https://www.federalreserve.gov/boarddocs/SupManual/bsa/bsa_p5.pdf) rules such as ID and SSN. Some Exchanges such as [CoinBase](https://coinbase.com/) will give you your public and private keys in order to control your wallets. Other exchanges such as [eToro](https://www.etoro.com/en-us/) allow you open a spread against a cryptocurrency similar to a stock. Exchanges such as eToro are frowned upon because you are unable to control the crypto wallet, you have to trust eToro to ensure your money is safe. Coinbase provides a flat fee of $3 per $100. [eToro's Fees](https://www.etoro.com/trading/fees/) is based on a small % of the spread so it can fluctaute between a small fee to a high fee.
 
@@ -59,7 +42,7 @@ Each cryptocurrency secures its network with some form of consensus. With [Bitco
 
 [Proof-of-Work (PoW) vs Proof-of-Stake (PoS)](https://www.kraken.com/en-us/learn/proof-of-work-vs-proof-of-stake). 
 
-### Proof-of-Staking
+### Proof-of-Stake
 
 Proof-of-Staking is the second most popular form of mining. It is similar to a savings account, in that, you hold crypto in your wallet and you get APY dividends. While it technically requires hardware to perform staking, many exchanges such as CoinBase offering Staking services so there's no setup on your end. Some cryptos pay out daily, some weekly. The interest rate is typically between 4% and 6%. If staking via an exchange, they typically a [small fee](https://coinsutra.com/best-ethereum-staking-platforms/) of the staking reward.
 
@@ -81,7 +64,7 @@ These standard rigs typically cost about $1000 dollars and can hold typically 8 
 
 ![large scale](https://user-images.githubusercontent.com/20715731/132954812-1e67d23c-db87-4ae8-8a27-922a085d15fa.jpeg)
 
-#### Graphic Cards (GPU's)
+## Graphic Cards (GPU's)
 
 GPU's are rated on Hashrate, Power Usage and Unit Cost. Hashrate is based on how powerful your card is and is the basis for its income.
 
@@ -91,7 +74,7 @@ GPU's are rated on Hashrate, Power Usage and Unit Cost. Hashrate is based on how
 
 The chart shows the Hashrate in MH/s, the Power Consumption in Watts and the efficiency (Hashrate per Watt). 100 MH/s brings in roughly ~.07 Eth. This is roughly ~$250 a month gross at the current exchange rate. 1 KW is 723KW/h per month, at $.1 per KWh, that's roughly $72.30/month per KW. 30 KW is roughly $2200 in electricity. $1500 in rent comes to roughly $3700 in bills.
 
-##### GPU Table
+### GPU Table
 
 |Name: |NVIDIA RTX 3070|AMD RX 5700 XT|AMD RX 580|
 |:---:|:---:|:---:|:---:|
@@ -155,7 +138,7 @@ ASICs are highly specialized, and very expensive equipment. Fake sites are found
 
 Because of their high cost and possible chance of scams, I'm hesitant to delve into them though they would be higher profits and installation time is zero. More downsides to using ASICs are that they cannot be upgraded. Once they become dated, their value drops dramatically and can be hard to resell since their functionality is obsolete whereas GPUs are a lot more flexible and are better at retaining their value and are easier to resell.
 
-#### Building a Custom Rig
+## Building a Custom Rig
 
 Custom rigs can come in all shapes and sizes
 
@@ -213,10 +196,6 @@ The Comparison of Pool Fees - https://help.poolin.com/hc/en-us/articles/36000272
 
 [SEC threaten to sue Coinbase over offering Staking to customers. SEC claim that the interest from staking is considered a security,](https://blog.coinbase.com/the-sec-has-told-us-it-wants-to-sue-us-over-lend-we-have-no-idea-why-a3a1b6507009)
 
-
-
-
-
 ## Software
 
 On Windows, the command to run the software would be similar to the one below. 
@@ -235,7 +214,7 @@ A Comparison of the different Protocols and their power usage.
 
 ![Protocol vs Power Usage](https://user-images.githubusercontent.com/20715731/132950294-a80bef79-9391-4406-b0a7-93ea6d0d7708.jpg)
 
-### News
+## News
 
 [New Mining Facility in Texas](https://www.reddit.com/r/ethtrader/comments/of5ngf/new_mining_center_in_texas_united_states/).
 
