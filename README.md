@@ -214,9 +214,11 @@ The Comparison of Pool Fees - https://help.poolin.com/hc/en-us/articles/36000272
 
 [Cryptocurrencies now recognized under commercial law in Texas. Texas House Bills 1576 and 4474 officially took effect on Sept. 1 after being signed into law by Governor Greg Abbott in June.](https://cointelegraph.com/news/cryptocurrencies-now-legally-recognized-under-commercial-law-in-texas)
 
-[More than a law: Texas takes steps to amend Bitcoin into state constitution](https://cointelegraph.com/news/more-than-a-law-texas-takes-steps-to-amend-bitcoin-into-state-constitution).
+[More than a law: Texas takes steps to amend Bitcoin into state constitution.](https://cointelegraph.com/news/more-than-a-law-texas-takes-steps-to-amend-bitcoin-into-state-constitution)
 
-[Signed into law in late May, LB 649, or the Nebraska Financial Innovation Act, will create “Digital Asset Depositories,” or banks, that trade cryptocurrency in the state. Also, existing banks in Nebraska have the opportunity to create a department that works with cryptocurrency. The new financial sector will be supervised by the Nebraska Department of Banking and Finance, with other regulations on the way](https://nebraskapublicmedia.org/en/news/news-articles/state-legislatures-cryptocurrency-bill-designed-to-regulate-the-new-financial-sector/).
+[Signed into law in late May, LB 649, or the Nebraska Financial Innovation Act, will create “Digital Asset Depositories,” or banks, that trade cryptocurrency in the state. Also, existing banks in Nebraska have the opportunity to create a department that works with cryptocurrency. The new financial sector will be supervised by the Nebraska Department of Banking and Finance, with other regulations on the way.](https://nebraskapublicmedia.org/en/news/news-articles/state-legislatures-cryptocurrency-bill-designed-to-regulate-the-new-financial-sector/)
+
+[Rhode Island Expands Electronic Money Transfer Licensing Requirements to Certain Cryptocurrency Service Providers. Rhode Island has amended its electronic money transfer law to require state licensing for certain entities providing cryptocurrency or “virtual currency”-related services.](https://www.consumerfinancialserviceslawmonitor.com/2019/09/rhode-island-expands-electronic-money-transfer-licensing-requirements-to-certain-cryptocurrency-service-providers/)
 
 [Couple sue IRS over Proof of Staking Current Tax Laws](https://decrypt.co/71943/tezos-users-sue-irs-over-crypto-tax-staking-rules)
 
