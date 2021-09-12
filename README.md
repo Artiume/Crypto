@@ -1,4 +1,26 @@
+<!DOCTYPE html><html><head><meta charset="utf-8" />
+<li class="h2"><a href="#how-to-start">How to start</a></li>
+<li class="h3"><a href="#creating-a-hot-wallet">Creating a hot wallet</a></li>
+<li class="h3"><a href="#your-first-wallet">Your First Wallet</a></li>
+<li class="h3"><a href="#sending-and-receiving-money">Sending and Receiving Money</a></li>
+<li class="h3"><a href="#cold-wallets">Cold Wallets</a></li>
+<li class="h3"><a href="#exchanges">Exchanges</a></li>
+<li class="h2"><a href="#how-to-mine">How to Mine</a></li>
+<li class="h3"><a href="#proof-of-staking">Proof-of-Staking</a></li>
+<li class="h3"><a href="#proof-of-work-hardware">Proof-of-Work Hardware</a></li>
+<li class="h2"><a href="#pools">Pools</a></li>
+<li class="h2"><a href="#legal">Legal</a></li>
+<li class="h2"><a href="#software">Software</a></li>
+<li class="h3"><a href="#news">News</a></li>
+<li class="h2"><a href="#web3-interaction">Web3 Interaction</a></li>
+<li class="h2"><a href="#money-comparison">Money Comparison</a></li>
+<li class="h3"><a href="#history-of-reserve-currencies">History of Reserve Currencies</a></li>
+<li class="h2"><a href="#misc">Misc</a></li>
+
+
 # Crypto
+
+
 
 ## How to start
 
