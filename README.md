@@ -160,7 +160,7 @@ Because of their high cost and possible chance of scams, I'm hesitant to delve i
 
 Custom rigs can come in all shapes and sizes
 
-[Manual for building a Custom Rig](https://app.sellwire.net/p/2s1)
+[Manual for building a Custom 14-GPU Rig](https://app.sellwire.net/p/2s1)
 
 Standard Metal Frame
 
