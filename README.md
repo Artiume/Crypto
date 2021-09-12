@@ -22,7 +22,11 @@
 
 ## What is a cryptocurrency
 
-There are two main components to cryptocurrency with a growing number of additional components as Web3 grows. The ledger, also known as the blockchain and its associated coin. [A cryptocurrency similar to a Coin is a Token,](https://www.ledger.com/academy/crypto/what-is-the-difference-between-coins-and-tokens) it may be bought and sold similar to coins. In addition to Tokens, there are also smart contracts, decentralized autonomous organization (DAO's), and more. See the Web3 section for more.
+a decentralized digital ledger that is incorruptible, unfalsifiable, and indestructible.
+
+Cryptocurrency is a Settlement Network. It maintains a ledger of anyones' accounts. Allowing a decentralized digital ledger that is incorruptible, unfalsifiable, and indestructible of [unit account for everyone.](https://blog.chainalysis.com/reports/bitcoin-addresses)  There are two main components to cryptocurrency with a growing number of additional components as Web3 grows. The ledger, also known as the blockchain and its associated coin. A cryptocurrency similar to a Coin is a Token, it may be bought and sold similar to coins. In addition to Tokens, there are also smart contracts, decentralized autonomous organization (DAO's), and more. See the Web3 section for more.
+
+The Bitcoin blockchain currently uses the RIPE-MD160 hash function, as long as this protocol is used, [2^160 Bitcoin addresses are possible.](https://steadyblockchain.com/exactly-how-many-possible-bitcoin-addresses-could-be-created/) This makes exactly 1,461,501,637,330,902,918,203,684,832,716,283,019,655,932,542,976 possible Bitcoin addresses. If all Bitcoin addresses where equally distributed to everyone on earth, each person would get 196,385,600,286,334,710,857,791,565,804,391,698,421 Bitcoin addresses.
 
 ## How to start
 
@@ -252,6 +256,8 @@ A Comparison of the different Protocols and their power usage.
 
 ![Protocol vs Power Usage](https://user-images.githubusercontent.com/20715731/132950294-a80bef79-9391-4406-b0a7-93ea6d0d7708.jpg)
 
+ * [Writing dApps.](https://eth.wiki/en/fundamentals/decentralized-apps-dapps)
+
 ## News
 
 [New Mining Facility in Texas](https://www.reddit.com/r/ethtrader/comments/of5ngf/new_mining_center_in_texas_united_states/).
@@ -266,6 +272,14 @@ A Comparison of the different Protocols and their power usage.
 
 ## Web3 Interaction
 
+ * [What is the difference between Coins and Tokens?](https://www.ledger.com/academy/crypto/what-is-the-difference-between-coins-and-tokens)
+
+ * [Ethereum (ETH) is much more than a cryptocurrency.](https://beincrypto.com/learn/nfts-explainer/) Thanks to its flexibility and programmability, Ethereum made it possible to build smart contracts, also called decentralized applications — dApps.
+
+ * [What is a dapp (decentralized application)?](https://decrypt.co/resources/dapps) They are like normal apps, and offer similar functions, but the key difference is they are run on a peer-to-peer network, such as a blockchain. That means no one person or entity has control of the network.
+
+ * [What’s the Difference between Fungible and Non-Fungible Tokens?](https://beincrypto.com/learn/non-fungible-tokens/) NFTs run on the Ethereum blockchain and enable the tokenization of any data. Each token is pegged to a different identifier, unique to the owner. You can think of them like one-of-a-kind collectables or certificates.
+
  * [What is DeCentralized Finance (DeFi)?](https://www.coinbase.com/learn/crypto-basics/what-is-defi)
 
  * [What Are "Layer 2 Solutions?"](https://www.publish0x.com/the-part-time-economist/what-are-layer-2-solutions-crypto-whiteboard-101-xdnrmmv)
@@ -273,6 +287,8 @@ A Comparison of the different Protocols and their power usage.
  * [What Is the Bitcoin Lightning Network? How Does It Work?](https://www.sofi.com/learn/content/lightning-network/) Lightning is a decentralized network that uses smart contract functionality in the Bitcoin blockchain to facilitate instant payments across a network of users. It’s considered an off-chain or layer-2 solution because it involves activity that doesn’t occur directly on the blockchain. 
 
  * [What is Polygon (MATIC) and Why It Matters for Ethereum.](https://decrypt.co/resources/what-is-polygon-matic-and-why-it-matters-for-ethereum) Formerly known as Matic Network, Polygon is an interoperability Layer-2 and scaling framework for building Ethereum-compatible blockchains. 
+
+ * [NFTS Explained:](https://beincrypto.com/learn/nfts-explainer/) What Are Non-fungible Tokens and How Do They Work?
 
  * [Cross-Chain Aggregation](https://cointelegraph.com/news/how-cross-chain-liquidity-aggregation-can-shape-the-future-of-defi)
 
@@ -285,6 +301,10 @@ A Comparison of the different Protocols and their power usage.
  * [How to start a DAO](https://www.musicxtechxfuture.com/2021/06/22/blockchain-basics-how-to-start-a-dao/).
 
  * [Are DAO's the future?](https://decrypt.co/80612/live-by-the-dao-dao-by-the-dao)
+
+ * [Coin Market Cap.](https://coinmarketcap.com/)
+
+ * [Token Market Cap.](https://coinmarketcap.com/tokens/)
 
 ## Money
 
