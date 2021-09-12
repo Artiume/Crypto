@@ -1,6 +1,7 @@
 # Crypto
 
-* List item
+* auto-gen TOC:
+{:toc}
 
 ## How to start
 
