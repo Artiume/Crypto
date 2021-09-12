@@ -272,6 +272,8 @@ A Comparison of the different Protocols and their power usage.
 
  * [What is the difference between Coins and Tokens?](https://www.ledger.com/academy/crypto/what-is-the-difference-between-coins-and-tokens)
 
+ * [Smart Contracts](https://decrypt.co/resources/smart-contracts) are contracts expressed as a piece of code that are designed to carry out a set of instructions. The term “smart contract” was coined in the 1990s, in an academic paper created by Nick Szabo. Dapps, or decentralized apps, are essentially a series of linked smart contracts.
+
  * [Ethereum (ETH) is much more than a cryptocurrency.](https://beincrypto.com/learn/nfts-explainer/) Thanks to its flexibility and programmability, Ethereum made it possible to build smart contracts, also called decentralized applications — dApps.
 
  * [What is a dapp (decentralized application)?](https://decrypt.co/resources/dapps) They are like normal apps, and offer similar functions, but the key difference is they are run on a peer-to-peer network, such as a blockchain. That means no one person or entity has control of the network.
@@ -289,8 +291,6 @@ A Comparison of the different Protocols and their power usage.
  * [NFTS Explained:](https://beincrypto.com/learn/nfts-explainer/) What Are Non-fungible Tokens and How Do They Work?
 
  * [Cross-Chain Aggregation](https://cointelegraph.com/news/how-cross-chain-liquidity-aggregation-can-shape-the-future-of-defi)
-
- * [Smart Contracts.](https://decrypt.co/resources/smart-contracts)
 
  * [DAO's](https://ethereum.org/en/dao/).
 
