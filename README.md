@@ -1,6 +1,6 @@
 # Crypto
 
-* TOC {:toc}
+
 
 ## How to start
 
