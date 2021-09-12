@@ -20,6 +20,10 @@
 <li class="h3"><a href="#history-of-reserve-currencies">History of Reserve Currencies</a></li>
 <li class="h2"><a href="#misc">Misc</a></li>
 
+## What is a cryptocurrency
+
+There are two main components to cryptocurrency with a growing number of additional components as Web3 grows. The ledger, also known as the blockchain and its associated coin. [A cryptocurrency similar to a Coin is a Token,](https://www.ledger.com/academy/crypto/what-is-the-difference-between-coins-and-tokens) it may be bought and sold similar to coins. In addition to Tokens, there are also smart contracts, decentralized autonomous organization (DAO's), and more. See the Web3 section for more.
+
 ## How to start
 
 The first step is to create a wallet. This is similar to creating a bank account. There are two types of wallets; hot wallets and cold wallets. A hot wallet is the term for a digital wallet or one that is on your phone or computer. Using a software wallet such as [MyEtherWallet (MEW)](https://www.myetherwallet.com/) or [Metamask](https://metamask.io/), here's a [comparison of the two](https://cryptogeek.info/en/compare-wallets/metamask-vs-myetherwallet). These are Ethereum based wallets. For different cryptos, different apps would be necessary.
@@ -262,17 +266,23 @@ A Comparison of the different Protocols and their power usage.
 
 ## Web3 Interaction
 
-[Cross-Chain Aggregation](https://cointelegraph.com/news/how-cross-chain-liquidity-aggregation-can-shape-the-future-of-defi)
+ * [What is DeCentralized Finance (DeFi)?](https://www.coinbase.com/learn/crypto-basics/what-is-defi)
 
-[Contracts](https://ethereum.org/en/developers/docs/smart-contracts/)
+ * [What Are "Layer 2 Solutions?"](https://www.publish0x.com/the-part-time-economist/what-are-layer-2-solutions-crypto-whiteboard-101-xdnrmmv)
 
-[DAO's](https://ethereum.org/en/dao/).
+ * [What Is the Bitcoin Lightning Network? How Does It Work?](https://www.sofi.com/learn/content/lightning-network/) Lightning is a decentralized network that uses smart contract functionality in the Bitcoin blockchain to facilitate instant payments across a network of users. It’s considered an off-chain or layer-2 solution because it involves activity that doesn’t occur directly on the blockchain. 
 
-[Exploring DAO's](https://app.daohaus.club/explore).
+ * [Cross-Chain Aggregation](https://cointelegraph.com/news/how-cross-chain-liquidity-aggregation-can-shape-the-future-of-defi)
 
-[How to start a DAO](https://www.musicxtechxfuture.com/2021/06/22/blockchain-basics-how-to-start-a-dao/).
+ * [Contracts](https://ethereum.org/en/developers/docs/smart-contracts/)
 
-[Are DAO's the future?](https://decrypt.co/80612/live-by-the-dao-dao-by-the-dao)
+ * [DAO's](https://ethereum.org/en/dao/).
+
+ * [Exploring DAO's](https://app.daohaus.club/explore).
+
+ * [How to start a DAO](https://www.musicxtechxfuture.com/2021/06/22/blockchain-basics-how-to-start-a-dao/).
+
+ * [Are DAO's the future?](https://decrypt.co/80612/live-by-the-dao-dao-by-the-dao)
 
 ## Money
 
