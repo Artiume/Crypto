@@ -46,10 +46,6 @@ Proof-of-Staking is the second most popular form of mining. It is similar to a s
 
 [Staking Services Comparison](https://beaconcha.in/stakingServices).
 
-[Couple sue IRS over Proof of Staking Current Tax Laws](https://decrypt.co/71943/tezos-users-sue-irs-over-crypto-tax-staking-rules)
-
-[SEC threaten to sue Coinbase over offering Staking to customers](https://blog.coinbase.com/the-sec-has-told-us-it-wants-to-sue-us-over-lend-we-have-no-idea-why-a3a1b6507009)
-
 ### Proof-of-Work Hardware
 
 Proof-of-Work Mining requires you to use either your computer's processor (CPU), graphics card (GPU), or an [ASIC](https://www.sigenics.com/blog/what-is-an-asic). We will be focusing on GPU mining with Ethereum since it is the most flexible in terms of price, setup and knowledge.
@@ -192,6 +188,16 @@ The Comparison of Pool Fees - https://help.poolin.com/hc/en-us/articles/36000272
 
 [Wyoming has passed laws to help clarify and promote cryptocurrencies](https://www.jdsupra.com/legalnews/crypto-daos-and-the-wyoming-frontier-9251606/)
 
+[Texas is pushing laws to protect cryptocurrencies in their Constitution](https://cointelegraph.com/news/more-than-a-law-texas-takes-steps-to-amend-bitcoin-into-state-constitution)
+
+[Couple sue IRS over Proof of Staking Current Tax Laws](https://decrypt.co/71943/tezos-users-sue-irs-over-crypto-tax-staking-rules)
+
+[SEC threaten to sue Coinbase over offering Staking to customers. SEC claim that the interest from staking is considered a security,](https://blog.coinbase.com/the-sec-has-told-us-it-wants-to-sue-us-over-lend-we-have-no-idea-why-a3a1b6507009)
+
+
+
+
+
 ## Software
 
 On Windows, the command to run the software would be similar to the one below. 
@@ -211,8 +217,6 @@ A Comparison of the different Protocols and their power usage.
 ![Protocol vs Power Usage](https://user-images.githubusercontent.com/20715731/132950294-a80bef79-9391-4406-b0a7-93ea6d0d7708.jpg)
 
 ### News
-
-[Texas is pushing laws to protect cryptocurrencies in their Constitution](https://cointelegraph.com/news/more-than-a-law-texas-takes-steps-to-amend-bitcoin-into-state-constitution)
 
 [New Mining Facility in Texas](https://www.reddit.com/r/ethtrader/comments/of5ngf/new_mining_center_in_texas_united_states/).
 
