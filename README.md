@@ -242,12 +242,6 @@ A Comparison of the different Protocols and their power usage.
 
 [Are DAO's the future?](https://decrypt.co/80612/live-by-the-dao-dao-by-the-dao)
 
-## Money Comparison
-
-The different traits of money
-
-![Traits of Money](https://user-images.githubusercontent.com/20715731/132950295-07377a5a-c9fc-4835-a3b9-650c1f2bc820.png)
-
 ### History of Reserve Currencies
 
 [Part 1](https://btcm.co/reserve-currencies-1/)
