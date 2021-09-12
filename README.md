@@ -214,7 +214,7 @@ The Comparison of Pool Fees - https://help.poolin.com/hc/en-us/articles/36000272
 
 [Cryptocurrencies now recognized under commercial law in Texas. Texas House Bills 1576 and 4474 officially took effect on Sept. 1 after being signed into law by Governor Greg Abbott in June.](https://cointelegraph.com/news/cryptocurrencies-now-legally-recognized-under-commercial-law-in-texas)
 
-[Texas is pushing laws to protect cryptocurrencies in their Constitution](https://cointelegraph.com/news/more-than-a-law-texas-takes-steps-to-amend-bitcoin-into-state-constitution)
+[More than a law: Texas takes steps to amend Bitcoin into state constitution](https://cointelegraph.com/news/more-than-a-law-texas-takes-steps-to-amend-bitcoin-into-state-constitution).
 
 [Couple sue IRS over Proof of Staking Current Tax Laws](https://decrypt.co/71943/tezos-users-sue-irs-over-crypto-tax-staking-rules)
 
