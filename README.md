@@ -1,3 +1,5 @@
+# Crypto
+
 <!DOCTYPE html><html><head><meta charset="utf-8" />
 <li class="h2"><a href="#how-to-start">How to start</a></li>
 <li class="h3"><a href="#creating-a-hot-wallet">Creating a hot wallet</a></li>
@@ -16,11 +18,6 @@
 <li class="h2"><a href="#money-comparison">Money Comparison</a></li>
 <li class="h3"><a href="#history-of-reserve-currencies">History of Reserve Currencies</a></li>
 <li class="h2"><a href="#misc">Misc</a></li>
-
-
-# Crypto
-
-
 
 ## How to start
 
