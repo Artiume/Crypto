@@ -256,8 +256,6 @@ A Comparison of the different Protocols and their power usage.
 
 ![Protocol vs Power Usage](https://user-images.githubusercontent.com/20715731/132950294-a80bef79-9391-4406-b0a7-93ea6d0d7708.jpg)
 
- * [Writing dApps.](https://eth.wiki/en/fundamentals/decentralized-apps-dapps)
-
 ## News
 
 [New Mining Facility in Texas](https://www.reddit.com/r/ethtrader/comments/of5ngf/new_mining_center_in_texas_united_states/).
@@ -292,7 +290,7 @@ A Comparison of the different Protocols and their power usage.
 
  * [Cross-Chain Aggregation](https://cointelegraph.com/news/how-cross-chain-liquidity-aggregation-can-shape-the-future-of-defi)
 
- * [Contracts](https://ethereum.org/en/developers/docs/smart-contracts/)
+ * [Smart Contracts.](https://decrypt.co/resources/smart-contracts)
 
  * [DAO's](https://ethereum.org/en/dao/).
 
@@ -332,3 +330,9 @@ Fold is a neat app that lets you buy gift cards to shops like Amazon, BassPro an
 There are some services called Mining Rig Rentals (MRR's), you can rent equipment that's probably placed in a data center somewhere. I'm not really interested in any of these services.
 
 https://www.miningrigrentals.com/
+
+### Developers
+
+ * [Writing Smart Contracts](https://ethereum.org/en/developers/docs/smart-contracts/)
+
+ * [Writing dApps](https://eth.wiki/en/fundamentals/decentralized-apps-dapps)
