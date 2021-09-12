@@ -1,5 +1,7 @@
 # Crypto
 
+{:toc}
+
 ## How to start
 
 The first step is to create a wallet. This is similar to creating a bank account. There are two types of wallets; hot wallets and cold wallets. A hot wallet is the term for a digital wallet or one that is on your phone or computer. Using a software wallet such as [MyEtherWallet (MEW)](https://www.myetherwallet.com/) or [Metamask](https://metamask.io/), here's a [comparison of the two](https://cryptogeek.info/en/compare-wallets/metamask-vs-myetherwallet). These are Ethereum based wallets. For different cryptos, different apps would be necessary.
