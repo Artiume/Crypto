@@ -216,6 +216,8 @@ The Comparison of Pool Fees - https://help.poolin.com/hc/en-us/articles/36000272
 
 [More than a law: Texas takes steps to amend Bitcoin into state constitution](https://cointelegraph.com/news/more-than-a-law-texas-takes-steps-to-amend-bitcoin-into-state-constitution).
 
+[Signed into law in late May, LB 649, or the Nebraska Financial Innovation Act, will create “Digital Asset Depositories,” or banks, that trade cryptocurrency in the state. Also, existing banks in Nebraska have the opportunity to create a department that works with cryptocurrency. The new financial sector will be supervised by the Nebraska Department of Banking and Finance, with other regulations on the way](https://nebraskapublicmedia.org/en/news/news-articles/state-legislatures-cryptocurrency-bill-designed-to-regulate-the-new-financial-sector/).
+
 [Couple sue IRS over Proof of Staking Current Tax Laws](https://decrypt.co/71943/tezos-users-sue-irs-over-crypto-tax-staking-rules)
 
 [SEC threaten to sue Coinbase over offering Staking to customers. SEC claim that the interest from staking is considered a security,](https://blog.coinbase.com/the-sec-has-told-us-it-wants-to-sue-us-over-lend-we-have-no-idea-why-a3a1b6507009)
