@@ -218,7 +218,11 @@ The Comparison of Pool Fees - https://help.poolin.com/hc/en-us/articles/36000272
 
  * * It’s also important to point out that other states such as Florida and Tennessee have recently been exploring ways to accept BTC for property tax payments. Jackson, Tennessee Mayor Scott Conger announced in July this year that the city’s blockchain task force is studying ways to allow for property taxes to be paid in Bitcoin. The news came shortly after Miami Mayor Francis Suarez announced the push for city employee salaries to be paid in BTC, while also allowing residents to pay fees in Bitcoin. 
 
-[Tennessee city](https://cointelegraph.com/news/tennessee-city-wants-to-accept-property-tax-payments-in-bitcoin) wants to accept property tax payments in Bitcoin. [Jackson Mayor Scott Conger believes](https://twitter.com/MayorConger/status/1415878004702580736?s=20) that Bitcoin is the only solution to fix inflation and the U.S. dollar devaluation. 
+ * * “Until lawsuits are filed to present these laws to judges, it remains difficult to know how judges will rule to interpret either the constitutional amendment or enacted laws. Nevertheless, if the voters of Texas enact a constitutional amendment that would be an important milestone about how crypto is viewed in a larger social perspective.”
+
+ * [Tennessee city](https://cointelegraph.com/news/tennessee-city-wants-to-accept-property-tax-payments-in-bitcoin) wants to accept property tax payments in Bitcoin. [Jackson Mayor Scott Conger believes](https://twitter.com/MayorConger/status/1415878004702580736?s=20) that Bitcoin is the only solution to fix inflation and the U.S. dollar devaluation. 
+
+[Miami council supports](https://cointelegraph.com/news/miami-council-supports-mayor-s-move-to-offer-city-worker-salaries-in-bitcoin) mayor’s move to offer city worker salaries in Bitcoin. The City Commission of Miami is now looking into the feasibility of allowing Miami residents to pay taxes and receive salaries in Bitcoin. 
 
  * [Signed into law in late May](https://nebraskapublicmedia.org/en/news/news-articles/state-legislatures-cryptocurrency-bill-designed-to-regulate-the-new-financial-sector/), LB 649, or the Nebraska Financial Innovation Act, will create “Digital Asset Depositories,” or banks, that trade cryptocurrency in the state. Also, existing banks in Nebraska have the opportunity to create a department that works with cryptocurrency. The new financial sector will be supervised by the Nebraska Department of Banking and Finance, with other regulations on the way.
 
@@ -271,6 +275,16 @@ A Comparison of the different Protocols and their power usage.
 [How to start a DAO](https://www.musicxtechxfuture.com/2021/06/22/blockchain-basics-how-to-start-a-dao/).
 
 [Are DAO's the future?](https://decrypt.co/80612/live-by-the-dao-dao-by-the-dao)
+
+## Money
+
+ * [Dollar cost averaging (DCA)](https://en.wikipedia.org/wiki/Dollar_cost_averaging) is an investment strategy that aims to reduce the impact of volatility on large purchases of financial assets such as equities. Dollar cost averaging is also called the constant dollar plan (in the US), pound-cost averaging (in the UK), and, irrespective of currency, unit cost averaging, incremental trading, or the cost average effect.
+
+ * [Warren Buffett has this advice for investing in a volatile market: Dollar-cost averaging](https://www.usatoday.com/story/money/investing/2020/10/28/warren-buffett-has-this-advice-for-investing-in-a-volatile-market/114480910/)
+
+ * [Warren Buffett](https://cointelegraph.com/news/warren-buffett-praises-stocks-dollar-cost-averaging-but-does-it-work-for-bitcoin) praises stocks dollar-cost averaging — But does it work for Bitcoin? Warren Buffett likes to dollar-cost average into major stock market indices but data shows that the same strategy has worked very well for Bitcoin buyers too. Warren Buffett has a message to young investors: dollar-cost average into major stock market indices. However, data shows that the same strategy has worked quite well for Bitcoin (BTC) too over the past decade.
+
+ * [Bitcoin’s expensive](https://cointelegraph.com/news/bitcoin-s-expensive-but-this-technique-proves-it-s-never-too-late-to-buy-btc) but this technique proves it’s never too late to buy BTC. Retail investors may think Bitcoin is now too expensive to buy, but dollar-cost averaging has proven to be one of the most effective methods available.
 
 ### History of Reserve Currencies
 
