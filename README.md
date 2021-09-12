@@ -293,7 +293,7 @@ A Comparison of the different Protocols and their power usage.
 
 ## Misc
 
-Fold is a neat app that lets you buy gift cards to shops like Amazon, BassPro and even airlines, and earn you satoshi's (the Bitcoin penny) as rewards. [Fold Referral](https://use.foldapp.com/sign-up?referral=XUHEKCWM)
+Fold is a neat app that lets you buy gift cards to shops like Amazon, BassPro and even airlines, and earn you [satoshi's (the Bitcoin penny)](https://usethebitcoin.com/what-is-a-satoshi-complete-guide/) as rewards. [Fold Referral](https://use.foldapp.com/sign-up?referral=XUHEKCWM)
 
 [IotaWatt](https://stuff.iotawatt.com/?v=7516fd43adaa)
 
