@@ -208,6 +208,8 @@ The Comparison of Pool Fees - https://help.poolin.com/hc/en-us/articles/36000272
 
 [On July 1, 2021, Wyoming’s Decentralized Autonomous Organization (“DAO”) law (Wy. Stat. § 17-31-101 through 17-31-115) became effective. This makes Wyoming the first U.S. state to clarify the legal status of, and legally recognize as a separate entity, a decentralized autonomous organization and its members, and it helps lay the foundation for this growing sector to provide a formal legal entity structure for those participating in unincorporated groups whose governance is generally coded into smart contracts.](https://www.jdsupra.com/legalnews/crypto-daos-and-the-wyoming-frontier-9251606/)
 
+[Cryptocurrencies now recognized under commercial law in Texas. Texas House Bills 1576 and 4474 officially took effect on Sept. 1 after being signed into law by Governor Greg Abbott in June.](https://cointelegraph.com/news/cryptocurrencies-now-legally-recognized-under-commercial-law-in-texas)
+
 [Texas is pushing laws to protect cryptocurrencies in their Constitution](https://cointelegraph.com/news/more-than-a-law-texas-takes-steps-to-amend-bitcoin-into-state-constitution)
 
 [Couple sue IRS over Proof of Staking Current Tax Laws](https://decrypt.co/71943/tezos-users-sue-irs-over-crypto-tax-staking-rules)
