@@ -150,7 +150,15 @@ Here's some older GPU models that might be worth buying if their price is low en
 
 ![old GPU models](https://user-images.githubusercontent.com/20715731/132961672-3dea427a-552e-44a3-8fc0-912592d40b7d.png)
 
-[Profit Switching](https://support.awesomeminer.com/support/solutions/articles/35000085714-profit-switching-introduction) is another form of mining. 
+## Tweaks to GPU Mining
+
+[Profit Switching](https://support.awesomeminer.com/support/solutions/articles/35000085714-profit-switching-introduction) is another form of PoW mining. 
+
+![Protocol Comparison](https://user-images.githubusercontent.com/20715731/132950289-77a690d0-6d65-44c5-ad61-8281cc39bd7b.jpg)
+
+A Comparison of the different Protocols and their power usage.
+
+![Protocol vs Power Usage](https://user-images.githubusercontent.com/20715731/132950294-a80bef79-9391-4406-b0a7-93ea6d0d7708.jpg)
 
 ### ASICs
 
@@ -236,24 +244,6 @@ The Comparison of Pool Fees - https://help.poolin.com/hc/en-us/articles/36000272
 
  * [SEC threaten to sue Coinbase](https://blog.coinbase.com/the-sec-has-told-us-it-wants-to-sue-us-over-lend-we-have-no-idea-why-a3a1b6507009) over offering Staking to customers. SEC claim that the interest from staking is considered a security.
 
-## Software
-
-On Windows, the command to run the software would be similar to the one below. 
-
-`miner.exe -a ethash -s us1.ethermine.org -n 5555 -u 0x4AeC7ecf49F12D442AA9A3403FaD625EAC0B8C17.worker1 --ssl --ssl_verification --logfile miner.log --mt --cclock 0 --mclock 0 --electricity_cost 0.1`
-
-Linux
-
-`nsfminer -P stratum1+ssl://0x4AeC7ecf49F12D442AA9A3403FaD625EAC0B8C17.worker1:x@us1.ethermine.org:5555 --report-hashrate`
-
-There is also the comparison of the different Mining Software. I currently use [nsfminer](https://github.com/no-fee-ethereum-mining/nsfminer) on Linux.
-
-![Protocol Comparison](https://user-images.githubusercontent.com/20715731/132950289-77a690d0-6d65-44c5-ad61-8281cc39bd7b.jpg)
-
-A Comparison of the different Protocols and their power usage.
-
-![Protocol vs Power Usage](https://user-images.githubusercontent.com/20715731/132950294-a80bef79-9391-4406-b0a7-93ea6d0d7708.jpg)
-
 ## News
 
 [New Mining Facility in Texas](https://www.reddit.com/r/ethtrader/comments/of5ngf/new_mining_center_in_texas_united_states/).
@@ -326,6 +316,18 @@ The Bitcoin blockchain currently uses the RIPE-MD160 hash function, as long as t
 [Part 2](https://btcm.co/reserve-currencies-2/)
 [Part 3](https://btcm.co/reserve-currencies-why-european-currencies/)
 [Part 4](https://btcm.co/reserve-currencies-4-spanish-real/)
+
+## Software
+
+On Windows, the command to run the software would be similar to the one below. 
+
+`miner.exe -a ethash -s us1.ethermine.org -n 5555 -u 0x4AeC7ecf49F12D442AA9A3403FaD625EAC0B8C17.worker1 --ssl --ssl_verification --logfile miner.log --mt --cclock 0 --mclock 0 --electricity_cost 0.1`
+
+Linux
+
+`nsfminer -P stratum1+ssl://0x4AeC7ecf49F12D442AA9A3403FaD625EAC0B8C17.worker1:x@us1.ethermine.org:5555 --report-hashrate`
+
+There is also the comparison of the different Mining Software. I currently use [nsfminer](https://github.com/no-fee-ethereum-mining/nsfminer) on Linux.
 
 ## Misc
 
