@@ -144,7 +144,7 @@ Here's some older GPU models that might be worth buying if their price is low en
 
 [Profit Switching](https://support.awesomeminer.com/support/solutions/articles/35000085714-profit-switching-introduction) is another form of mining. 
 
-#### ASICs
+### ASICs
 
 ASICs are highly specialized, and very expensive equipment. Fake sites are found online all the time so it's hard to find a dealer who isn't a scammer.
 
