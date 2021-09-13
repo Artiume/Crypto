@@ -298,8 +298,10 @@ The Comparison of Pool Fees - https://help.poolin.com/hc/en-us/articles/36000272
 
  * [Fractional Ownership](https://cointelegraph.com/news/blockchain-based-platform-for-fractional-property-ownership-launches-in-india)
 
+https://en.bitcoin.it/wiki/Invoice_address
 
 https://news.bitcoin.com/everything-you-should-know-about-bitcoin-address-formats/
+
 ## Money
 
  A cryptocurrency similar to a Coin is a Token, it may be bought and sold similar to coins. In addition to Tokens, there are also smart contracts, decentralized autonomous organization (DAO's), and more. See the Web3 section for more.
