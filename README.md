@@ -314,6 +314,8 @@ https://news.bitcoin.com/everything-you-should-know-about-bitcoin-address-format
 
  * [Bitcoin’s expensive](https://cointelegraph.com/news/bitcoin-s-expensive-but-this-technique-proves-it-s-never-too-late-to-buy-btc) but this technique proves it’s never too late to buy BTC. Retail investors may think Bitcoin is now too expensive to buy, but dollar-cost averaging has proven to be one of the most effective methods available.
 
+ * [SOPR (Spent Output Profit Ratio)](https://academy.glassnode.com/indicators/sopr/sopr-spent-output-profit-ratio) SOPR is an indicator which reflects the degree of realised profit and loss for all coins moved on-chain.
+
 The Bitcoin blockchain currently uses the RIPE-MD160 hash function, as long as this protocol is used, [2^160 Bitcoin addresses are possible.](https://steadyblockchain.com/exactly-how-many-possible-bitcoin-addresses-could-be-created/) This makes exactly 1,461,501,637,330,902,918,203,684,832,716,283,019,655,932,542,976 possible Bitcoin addresses. If all Bitcoin addresses where equally distributed to everyone on earth, each person would get 196,385,600,286,334,710,857,791,565,804,391,698,421 Bitcoin addresses.
 
 ### History of Reserve Currencies
