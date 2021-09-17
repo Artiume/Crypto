@@ -352,3 +352,5 @@ https://www.miningrigrentals.com/
  * [Writing Smart Contracts](https://ethereum.org/en/developers/docs/smart-contracts/)
 
  * [Writing dApps](https://eth.wiki/en/fundamentals/decentralized-apps-dapps)
+
+https://ethereum.stackexchange.com/questions/375/what-is-swarm-and-what-is-it-used-for
