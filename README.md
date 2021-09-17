@@ -354,3 +354,7 @@ https://www.miningrigrentals.com/
  * [Writing dApps](https://eth.wiki/en/fundamentals/decentralized-apps-dapps)
 
 https://ethereum.stackexchange.com/questions/375/what-is-swarm-and-what-is-it-used-for
+
+https://github.com/ethersphere/bee
+
+https://blog.ethereum.org/2014/08/18/building-decentralized-web/
