@@ -360,3 +360,6 @@ https://ethereum.stackexchange.com/questions/375/what-is-swarm-and-what-is-it-us
 https://github.com/ethersphere/bee
 
 https://blog.ethereum.org/2014/08/18/building-decentralized-web/
+
+https://www.tomshardware.com/how-to/optimize-your-gpu-for-ethereum-mining
+
