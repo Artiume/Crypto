@@ -160,6 +160,8 @@ A Comparison of the different Protocols and their power usage.
 
 ![Protocol vs Power Usage](https://user-images.githubusercontent.com/20715731/132950294-a80bef79-9391-4406-b0a7-93ea6d0d7708.jpg)
 
+[Dual Mining](https://k1pool.com/blog/eth-and-zil-dual-mining-double-profit)
+
 ### ASICs
 
 ASICs are highly specialized, and very expensive equipment. Fake sites are found online all the time so it's hard to find a dealer who isn't a scammer.
