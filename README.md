@@ -364,3 +364,5 @@ https://blog.ethereum.org/2014/08/18/building-decentralized-web/
 https://www.tomshardware.com/how-to/optimize-your-gpu-for-ethereum-mining
 
 https://www.investopedia.com/terms/n/nonce.asp
+
+[gminer settings](https://gminer.ac/en/start-and-configure/)
