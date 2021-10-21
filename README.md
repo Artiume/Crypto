@@ -366,3 +366,7 @@ https://www.tomshardware.com/how-to/optimize-your-gpu-for-ethereum-mining
 https://www.investopedia.com/terms/n/nonce.asp
 
 [gminer settings](https://gminer.ac/en/start-and-configure/)
+
+https://braiins.com/blog/when-and-why-bitcoin-miners-sell-btc
+
+https://braiins.com/blog/bitcoin-mining-analogy-beginners-guide
