@@ -370,3 +370,5 @@ https://www.investopedia.com/terms/n/nonce.asp
 https://braiins.com/blog/when-and-why-bitcoin-miners-sell-btc
 
 https://braiins.com/blog/bitcoin-mining-analogy-beginners-guide
+
+https://stats.buybitcoinworldwide.com/mayermultiple/
