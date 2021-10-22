@@ -372,3 +372,5 @@ https://braiins.com/blog/when-and-why-bitcoin-miners-sell-btc
 https://braiins.com/blog/bitcoin-mining-analogy-beginners-guide
 
 https://stats.buybitcoinworldwide.com/mayermultiple/
+
+https://m.investing.com/indices/bitcoin-real-time-technical
